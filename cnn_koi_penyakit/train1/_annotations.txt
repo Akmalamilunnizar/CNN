@@ -1,0 +1,834 @@
+white_tail_diseases_koi_039_jpg.rf.001f5bad14cda823e1119be80d340ac6.jpg 13,168,213,390,4
+white_tail_diseases_koi_030_jpg.rf.00865f042951acf6031e2cc284331e62.jpg 58,103,452,503,4
+fungal_diseases_koki_015_jpg.rf.00db5d37482c43d7da8c7f38efc5112f.jpg 598,200,634,261,1
+bacterial_diseases_koi_028_jpg.rf.00719d21d831b2047558f7a246653fa5.jpg 323,134,565,555,0
+healthy_fish_koki_248_jpeg.rf.049f35aaeb65a607a25538469eafb85f.jpg 0,86,529,640,2
+parasitic_diseases_koki_014_jpg.rf.035064871777e8693d1fbf630a6e26ba.jpg 273,157,471,426,3
+healthy_fish_koi_295_jpg.rf.01723960f2a48bc71a0b8e7cf7cdb5d2.jpg 117,74,306,273,2 0,441,234,640,2 347,380,458,640,2 0,207,327,417,2
+healthy_fish_koi_286_jpg.rf.015950f07d25496cce167dac695747d1.jpg 0,0,195,208,2 173,162,612,622,2
+healthy_fish_koi_038_jpg.rf.0388009f94f7bea3ddce52031c3a6ee9.jpg 140,66,475,490,2
+bacterial_diseases_koki_064_jpg.rf.04d5143e95c6054f366eb0d77a0c3927.jpg 119,358,351,530,0
+healthy_fish_koki_220_jpg.rf.0373bde01ba951aaf8b2aa8bb25d6b40.jpg 16,314,302,453,2
+fungal_diseases_koi_029_jpg.rf.03c5157fcc6404355e4143f18d3a1faf.jpg 273,83,411,275,1
+bacterial_diseases_koi_053_jpg.rf.01067603c4367b8e9f350d4951293721.jpg 229,393,379,510,0
+healthy_fish_koki_223_jpg.rf.0045b64a404ae90e8a4861de0f821c17.jpg 140,262,435,429,2
+healthy_fish_koki_189_jpg.rf.044f7b80e183ee3623f98c3aadb958eb.jpg 138,107,606,640,2
+healthy_fish_koki_035_jpg.rf.07d7827dbd32a9fb2d9b613d19e1af96.jpg 72,57,469,591,2
+healthy_fish_koki_234_jpg.rf.050b3ce3ed386f6fca84b7325074e40d.jpg 0,0,640,640,2
+fungal_diseases_koki_038_jpg.rf.010fc07ca84861d12ec596dbced3355e.jpg 369,283,450,392,1 482,308,533,365,1 459,407,482,443,1 497,394,528,442,1 443,380,464,410,1 417,248,464,297,1
+healthy_fish_koki_180_jpg.rf.08016025f581e3abc398b36bd066e5da.jpg 128,145,527,499,2
+healthy_fish_koki_222_jpg.rf.05ae5386ebe6ab7618695b3515a5adfb.jpg 106,257,433,452,2
+healthy_fish_koi_270_jpg.rf.07a4603b07d7af8bb2ccd4993334e9ef.jpg 22,20,200,440,2 437,277,640,416,2 200,139,246,262,2
+healthy_fish_koi_229_jpg.rf.0400278a2606b71a83f0a65b308400e3.jpg 96,35,395,323,2
+white_tail_diseases_koki_089_jpg.rf.078040508660221ead7225ea44ecabf5.jpg 414,224,618,518,4
+healthy_fish_koi_133_jpg.rf.08ab80aed8d126d0dfac41452d7776f2.jpg 246,77,352,375,2 92,251,192,566,2
+healthy_fish_koi_284_jpg.rf.09d493c471e9e10259de03b393e523e0.jpg 88,192,422,623,2
+healthy_fish_koi_178_jpg.rf.088931dbe9e807dedd7f8335f850e9e7.jpg 0,0,228,462,2 291,110,471,290,2 427,0,490,190,2
+healthy_fish_koi_259_jpg.rf.06b75316eb93f8fe5da34299aa26d28a.jpg 376,358,517,612,2 0,431,267,612,2 166,16,455,331,2
+healthy_fish_koki_110_jpg.rf.0a0570ddf4ec95228b0a54652afe751f.jpg 182,143,607,591,2
+bacterial_diseases_koki_018_jpg.rf.0bcecbc85fe6d5a0fa53b5162aa38061.jpg 248,310,288,360,0
+healthy_fish_koki_047_jpg.rf.0a8354468b4c8db32af8dfa10eebb29e.jpg 38,0,424,640,2
+bacterial_diseases_koi_041_jpg.rf.09ed15fb750446b96e84f5a53773d49d.jpg 14,117,300,552,0
+fungal_diseases_koki_034_jpg.rf.0bff6fda6c2aa8a8b844397de03899a1.jpg 154,453,283,525,1 148,394,287,444,1
+healthy_fish_koi_095_jpg.rf.0a0f028e45122865ef1adfb1b932330d.jpg 52,162,239,519,2 247,208,384,636,2 479,126,636,405,2 276,28,333,162,2
+bacterial_diseases_koi_029_jpg.rf.0a79621553290862ff8c686fc1f90ea8.jpg 78,118,323,509,0
+white_tail_diseases_koki_056_jpg.rf.0d2f4c78eba6b9e3309ec530bba258eb.jpg 47,331,394,640,4
+healthy_fish_koi_145_jpg.rf.0de649fb45237423cd9553663b9423d8.jpg 356,0,479,188,2 51,0,199,407,2 216,38,294,269,2 156,176,576,438,2 357,360,640,529,2 63,520,496,640,2
+healthy_fish_koi_136_jpg.rf.0c0f090d6e15977aff4117bcf570fb1b.jpg 186,9,295,312,2 67,160,179,454,2 106,396,159,574,2 276,6,439,168,2
+healthy_fish_koki_012_jpg.rf.0f2b4dd1561d070f4782b91f619e15cf.jpg 105,17,591,640,2
+healthy_fish_koi_118_jpg.rf.0b1e4b0d663100cca7fb054e8669c324.jpg 257,3,495,468,2 425,4,632,220,2 426,412,574,567,2
+healthy_fish_koki_176_jpg.rf.0e2ecd649e4b97b2e4eb14386046f90d.jpg 99,101,609,576,2
+bacterial_diseases_koki_005_jpg.rf.0a84bec7b6ff3cedd249aba8096b7b7d.jpg 384,413,450,519,0
+healthy_fish_koki_071_jpg.rf.102364ebe86f3e9f83f9f32fffb6c289.jpg 178,0,619,640,2
+healthy_fish_koki_066_jpg.rf.0e78d362215cbf3ccedc7a2abe8d7301.jpg 91,32,487,572,2
+healthy_fish_koi_195_jpg.rf.12b71de6143cc1edaa254ebd96f79a0c.jpg 17,298,417,640,2
+white_tail_diseases_koki_063_jpg.rf.105b4c92d02943e403e60bb76b13aebe.jpg 87,58,534,580,4
+bacterial_diseases_koi_037_jpg.rf.107fc5e93894e357f698afe0806d507f.jpg 8,59,294,630,0
+white_tail_diseases_koi_026_jpg.rf.10835b8b7396be070e6f86055f49882a.jpg 154,48,496,477,4
+bacterial_diseases_koi_096_jpg.rf.0fba085a91f73d5ec2d26cf86491109b.jpg 109,303,510,474,0
+bacterial_diseases_koi_070_jpg.rf.10dbed01add3ef8213a4e97a7be9b50b.jpg 132,255,288,444,0
+healthy_fish_koi_285_jpg.rf.0f924e09f829290faa7539a50b1a1d3d.jpg 38,191,520,640,2 0,0,209,183,2
+healthy_fish_koki_206_jpg.rf.0c9b1e982c349464dd1de64ddb5a4f49.jpg 337,209,640,509,2
+bacterial_diseases_koi_026_jpg.rf.0cc9321330ecc2a1c1dc3815f5de1459.jpg 75,142,326,504,0
+healthy_fish_koki_167_jpg.rf.0f68820f8f59aaeaff30b10a285ace1e.jpg 45,77,640,621,2
+white_tail_diseases_koki_067_jpg.rf.12d8201ecc8ca327454bf3234e839b07.jpg 4,162,228,353,4
+bacterial_diseases_koki_054_jpg.rf.12b96b56f23b91deeee161919627bece.jpg 143,183,265,435,0
+parasitic_diseases_koki_005_jpg.rf.10f5ba5c70605ce54eed3239281fdfc2.jpg 329,280,392,355,3 150,204,225,266,3 71,321,151,373,3 103,453,161,505,3 156,399,223,447,3
+healthy_fish_koi_167_jpg.rf.12e2025cb8876cb2425d6f0e6861dd12.jpg 0,133,373,462,2 281,0,468,205,2
+healthy_fish_koki_151_jpg.rf.1500ad16f38b72490e77ba2615a5eb7c.jpg 0,0,640,629,2
+healthy_fish_koki_217_jpg.rf.158126b96d40aa04dea1300516cfbbca.jpg 301,266,532,439,2
+fungal_diseases_koki_036_jpg.rf.14c810d20e8be7a0883c694e09f1cc9b.jpg 462,334,536,453,1 412,333,454,474,1
+healthy_fish_koi_030_jpg.rf.134e8f88df67fed80b884c23142fc471.jpg 169,27,479,611,2
+parasitic_diseases_koki_006_jpg.rf.14d2b38021f07bfd6607bcd52eccac14.jpg 272,174,466,440,3
+fungal_diseases_koi_007_jpg.rf.18d8a75b6855723ae0fb0333052917cb.jpg 320,214,384,308,1 474,318,547,400,1 549,226,592,283,1 553,332,584,364,1 597,293,616,326,1
+healthy_fish_koi_288_jpg.rf.15912189cbfd2e7f7efc21aefbe4d06b.jpg 131,319,588,557,2 185,0,493,138,2 0,459,306,640,2
+healthy_fish_koki_231_jpg.rf.11252cb0cdc3d5ccf998a61177312447.jpg 25,28,610,608,2
+healthy_fish_koki_118_jpg.rf.190008d6cfffd020c64d8bf9858d8fc4.jpg 65,23,601,629,2
+white_tail_diseases_koki_007_jpg.rf.159eba85d784e018701bfe2dbcda51eb.jpg 192,429,439,562,4
+healthy_fish_koi_079_jpg.rf.16e81605cc69ca30a3d42172cc1dbbd6.jpg 2,79,273,314,2 124,250,324,401,2
+white_tail_diseases_koi_024_jpg.rf.1966c175f02e53349e76170a409c1404.jpg 174,171,542,568,4
+bacterial_diseases_koi_093_jpg.rf.1be6204dd6ce510e46619decdc826dc1.jpg 70,8,354,527,0
+healthy_fish_koki_155_jpg.rf.18246d63e3e682905ab3b1174ac99681.jpg 0,12,631,627,2
+white_tail_diseases_koki_076_jpg.rf.1d31ed3b1494d5fa691f4f1dc66d235b.jpg 232,467,450,640,4
+healthy_fish_koki_241_jpg.rf.1a41aa71c03ff838059f18b70c44400d.jpg 0,31,607,535,2
+healthy_fish_koki_153_jpg.rf.1f56e37fe4c8e438f5d0d0626c18606a.jpg 110,0,611,640,2
+bacterial_diseases_koi_085_jpg.rf.150289dc18a41dfb6f15cbe552578c84.jpg 128,257,277,434,0
+healthy_fish_koki_057_jpg.rf.1c82a89a0565a9c119316eb00b5e45da.jpg 96,33,499,599,2
+parasitic_diseases_koi_019_jpg.rf.199c793aa54d2edb684cf665643167da.jpg 184,303,423,536,3
+fungal_diseases_koki_013_jpg.rf.209c0defacc0f7059ba330c75aebdbee.jpg 372,287,449,398,1 479,313,531,376,1 420,249,464,301,1 440,384,463,415,1 457,413,483,449,1 493,398,519,452,1
+healthy_fish_koi_183_jpg.rf.2052882e7be9b9e6e85f55d6410aebc7.jpg 325,87,492,422,2 234,0,360,368,2
+bacterial_diseases_koi_094_jpg.rf.21bd7ff5f48181d6133a93164a6a8aae.jpg 70,12,303,558,0
+bacterial_diseases_koi_083_jpg.rf.220c2feb476dd39b1dfc97f585c09178.jpg 127,242,283,410,0
+parasitic_diseases_koki_016_jpg.rf.21a9edd722af64472250526bf371fd7a.jpg 154,144,431,366,3
+healthy_fish_koi_258_jpg.rf.1c765782e4979ffa3494d82a5956ace8.jpg 133,80,386,286,2 78,387,316,531,2 291,358,443,472,2 507,196,590,385,2
+healthy_fish_koki_017_jpg.rf.230984b2290ba747e966d1dd6d007b8e.jpg 114,49,640,589,2
+healthy_fish_koki_212_jpg.rf.19d59e5e53efbe7893481ffa2214d76b.jpg 195,286,453,441,2
+fungal_diseases_koi_030_jpg.rf.22360f45c5f74d9b8c21bbef60379e55.jpg 118,188,303,336,1
+bacterial_diseases_koi_062_jpg.rf.2398e484cb985ecf413b46d58c6c0cbc.jpg 130,257,280,429,0
+healthy_fish_koki_148_jpg.rf.22423b6449f21237c3b25e75fc5e01bc.jpg 112,0,620,640,2
+bacterial_diseases_koi_067_jpg.rf.228c6289e8cef4c785520d7ad7d3f0bf.jpg 204,349,378,496,0
+bacterial_diseases_koki_040_jpg.rf.221686e534ed278c485d0133b8b2a1af.jpg 143,139,173,178,0
+white_tail_diseases_koki_008_jpg.rf.234bb914d001ad2da455f02664371dce.jpg 443,205,568,447,4
+white_tail_diseases_koki_049_jpg.rf.23e144c4adbaf57e7d8b805f569de37e.jpg 433,203,626,511,4
+bacterial_diseases_koi_075_jpg.rf.23b1f6780d6aa70353996287903ff055.jpg 115,298,271,465,0
+healthy_fish_koki_146_jpg.rf.2388a9be7df06ea598a7f8b61fd14d1e.jpg 148,108,436,405,2 273,354,640,621,2
+bacterial_diseases_koi_009_jpg.rf.24d5261a3cfd5b1f2206664d2927f8ac.jpg 407,221,551,512,0
+healthy_fish_koi_110_jpg.rf.202e8780bc3827ea4f3e333b18f853d0.jpg 233,183,410,596,2 11,241,147,635,2
+white_tail_diseases_koi_032_jpg.rf.2463c95ae1aa0281d3bfcd7015f079ec.jpg 414,255,619,470,4
+white_tail_diseases_koki_014_png.rf.272be21a9a4885959dc67eb203e7f8a8.jpg 33,180,149,464,4
+bacterial_diseases_koki_048_jpg.rf.241756686989a761b461671eb5e30b73.jpg 329,200,445,406,0
+healthy_fish_koi_124_jpg.rf.221fb72671aa93524a84ec58fad474f4.jpg 458,282,635,588,2 153,56,214,192,2 134,255,209,416,2 4,348,145,468,2 12,460,173,637,2
+bacterial_diseases_koki_014_jpg.rf.2506d2c0ab591524a92cca2c2aec2a98.jpg 343,239,407,463,0
+healthy_fish_koi_272_jpg.rf.26b731aff1831db07e9637255612af30.jpg 65,65,198,507,2 214,148,281,301,2 356,283,640,446,2 0,483,285,640,2
+bacterial_diseases_koki_012_jpg.rf.270838c7930521f823b60f37163eed9a.jpg 158,249,265,358,0 83,272,136,361,0
+white_tail_diseases_koki_097_jpg.rf.24ee1b71f7211e777eb0a75893ffee8f.jpg 14,234,287,440,4
+white_tail_diseases_koki_084_jpg.rf.2585838b40ad6503ae775d0e68ce52df.jpg 135,0,365,154,4
+white_tail_diseases_koki_002_jpg.rf.27148f8df516edd110b8130252c66d1a.jpg 332,112,575,340,4
+healthy_fish_koki_021_jpg.rf.278fdb7db88a8f50adc360ec24280beb.jpg 126,87,556,510,2
+healthy_fish_koi_105_jpg.rf.2a7acb164f35989e94f527275f57d542.jpg 103,44,273,502,2 44,52,93,182,2
+bacterial_diseases_koki_019_jpg.rf.2baabf0ab7a034d7ccb4f306b8d15751.jpg 144,245,287,499,0
+healthy_fish_koki_187_jpg.rf.2d8b570acd17891702732818925a285e.jpg 83,159,535,567,2
+parasitic_diseases_koki_008_jpeg.rf.2b5263cc47633447842f2294cff35039.jpg 269,166,475,434,3
+white_tail_diseases_koki_074_jpg.rf.27b817f60b984d17d54990818848df54.jpg 518,203,635,385,4
+parasitic_diseases_koki_021_jpg.rf.2dc5b1450dd9fee34f13c2c93ba1c1c1.jpg 163,215,375,476,3
+healthy_fish_koi_020_jpg.rf.295fba6b6a531474d630c4ab75ffed60.jpg 42,12,623,616,2
+bacterial_diseases_koki_091_jpg.rf.2bf2199111805bad067df7629aec5809.jpg 375,133,441,246,0
+healthy_fish_koi_003_jpg.rf.3017164f66c6b203128e5f1128de49c9.jpg 255,159,582,634,2
+healthy_fish_koki_067_jpg.rf.2dae524858d3b6e1304d4efbabdf1786.jpg 207,90,513,583,2
+healthy_fish_koki_063_jpg.rf.2e3abe8fd5367742e3b9835c4c9b3820.jpg 204,144,453,583,2 72,501,288,640,2 313,448,420,629,2
+healthy_fish_koki_106_jpg.rf.281b6aa7dead040f5bdd143788866167.jpg 43,18,612,620,2
+bacterial_diseases_koki_086_jpg.rf.2e48485a45eaac1dee697a9e1409ed99.jpg 284,83,415,224,0 290,364,462,566,0
+parasitic_diseases_koi_020_jpg.rf.2e4a9d4358d56a822501f39673c45985.jpg 200,309,430,529,3
+fungal_diseases_koki_022_jpg.rf.3070c23793ce7ac01bb51ee8ebafbc65.jpg 337,105,454,182,1 338,188,475,233,1
+healthy_fish_koi_116_jpg.rf.2e06f97368b23f232baef22c445ceaae.jpg 238,7,499,326,2 351,344,492,446,2 386,7,635,193,2
+bacterial_diseases_koi_092_jpg.rf.2d32913bedcd31e3ca4ddd7f421dbc6a.jpg 362,39,616,572,0
+white_tail_diseases_koki_034_jpg.rf.2f28d263c48a238ab73101a4e0758238.jpg 437,203,568,444,4
+bacterial_diseases_koki_070_jpg.rf.2f17a001a86462f43e4556781947de91.jpg 223,384,473,503,0
+healthy_fish_koki_237_jpg.rf.317617bbcad3b186f70df54ed17c02d3.jpg 63,151,610,608,2
+healthy_fish_koi_176_jpg.rf.310c49b5443d253d9cc8ebf0cf0a96b8.jpg 429,161,560,640,2
+white_tail_diseases_koki_054_jpg.rf.348ab3ea37790b4e5bdc5b988715bd43.jpg 107,343,180,455,4
+fungal_diseases_koi_003_jpg.rf.330063fc6a665213b641c9bc1e557c4e.jpg 108,268,139,341,1 195,251,253,315,1 195,207,241,260,1 259,247,293,299,1 303,241,354,283,1 305,314,342,345,1 338,267,384,290,1 384,231,423,261,1 358,296,396,313,1 393,334,452,361,1 412,279,449,310,1 204,336,261,388,1
+healthy_fish_koi_078_jpg.rf.3447bd0b634fba73cb323cd2b589ce0c.jpg 145,263,318,430,2 19,57,273,317,2 2,3,163,163,2
+healthy_fish_koki_159_jpg.rf.3413532ba87bc0690922b24e3edbb008.jpg 0,0,640,640,2
+healthy_fish_koki_109_jpg.rf.355cb1e276b1b8ca731f5d815c70e71d.jpg 56,0,574,640,2
+white_tail_diseases_koi_035_jpg.rf.325ba8cbd8900962285d7598021f458c.jpg 430,255,628,474,4
+healthy_fish_koi_062_jpg.rf.3548893b5501d9505da6e9108d23b020.jpg 190,14,449,625,2
+fungal_diseases_koki_029_jpg.rf.2dac7ba602e199fc7338209d7b0ee7c6.jpg 278,404,418,525,1 391,144,477,265,1
+healthy_fish_koi_207_jpg.rf.32959d99e08aa68285fad581997a08bd.jpg 243,126,556,446,2 247,63,466,227,2 5,233,310,399,2 372,284,640,513,2
+healthy_fish_koi_199_jpg.rf.01053f7c52edb6f19fd8c21a3dafa913.jpg 258,0,376,291,2 23,326,242,481,2 393,312,578,640,2
+bacterial_diseases_koki_094_jpg.rf.0086e3987ae7deb5d19526eb220c4643.jpg 337,398,399,499,0
+white_tail_diseases_koki_018_png.rf.0c5e3167c8f16572337679182aa4b697.jpg 442,181,581,485,4
+healthy_fish_koki_208_jpg.rf.053a2333e5f71770207fa0c0bac67fc3.jpg 130,177,523,429,2
+healthy_fish_koi_186_jpg.rf.2ac8fa91295aa4780558251e083fe9b3.jpg 181,0,640,640,2 0,381,105,640,2 97,325,189,481,2
+parasitic_diseases_koi_029_jpg.rf.1726bd48cdcbb7d65e5fa234f8b3511a.jpg 313,203,542,414,3
+healthy_fish_koi_161_jpg.rf.31dcf60d46af0df1f668a09a1c720ce5.jpg 202,217,266,417,2 284,377,339,552,2 330,270,512,535,2 160,0,311,185,2
+healthy_fish_koki_192_jpg.rf.272f4bb2f744db8a56d8f1a75e4cb20d.jpg 0,106,640,640,2
+healthy_fish_koi_263_jpg.rf.3172f43a113c6011123d56ded2cccb27.jpg 28,122,309,540,2
+healthy_fish_koi_155_jpg.rf.c8fbfe384d44fb5d63c45747ab0e0dbe.jpg 364,28,607,541,2 347,0,471,164,2 447,408,640,640,2
+healthy_fish_koki_166_jpg.rf.c8e30ff6b2db779196e8a97f7c5ca217.jpg 161,0,555,640,2
+white_tail_diseases_koi_020_jpg.rf.c9c956a93a5ecbfd42de0ce06b2952a7.jpg 463,128,580,225,4
+healthy_fish_koi_010_jpg.rf.cad3a788c87d6fab3f4e0c5b25c0b7c3.jpg 9,135,607,516,2
+healthy_fish_koi_216_jpg.rf.cb302b1b84bc8538c61fbf06ee23273e.jpg 152,223,512,465,2 589,407,640,543,2 273,160,338,262,2 470,83,521,178,2
+healthy_fish_koki_040_jpg.rf.c942c9054cbefd37e5e19f67b809d5a2.jpg 124,30,597,528,2
+white_tail_diseases_koki_092_jpg.rf.ca840213c2b30c6292dbc25c6e2be796.jpg 10,205,287,426,4
+fungal_diseases_koki_052_jpg.rf.c9fef9faf76d821e88eb5c0fd737bc19.jpg 23,307,63,374,1
+healthy_fish_koi_222_jpg.rf.cc0ea496f4c69b1f962c0845115c5828.jpg 164,0,366,413,2 375,92,458,201,2
+bacterial_diseases_koi_088_jpg.rf.c8585a283b9f5363f37fea17ef4d1e46.jpg 144,124,488,291,0
+white_tail_diseases_koki_065_jpg.rf.c8549d0acc71b6e626988077dce234aa.jpg 190,8,386,233,4
+healthy_fish_koki_138_jpg.rf.cc9914f5c33a3173205427b4493a3d07.jpg 162,209,569,459,2
+healthy_fish_koi_257_jpg.rf.c898e321a738274ddcd3e3d90a4a7195.jpg 0,376,187,574,2 174,363,363,556,2 297,123,514,312,2 110,0,250,176,2 344,0,548,167,2
+bacterial_diseases_koki_047_jpg.rf.cd51b7a9fb726cd9ae86d21a7c4b3b24.jpg 189,187,318,465,0
+bacterial_diseases_koki_037_jpg.rf.ca16e7638fb71478c3b6b3be7e68b7ae.jpg 140,148,391,289,0
+fungal_diseases_koi_032_jpg.rf.cb4b035e57c6bf72ef3ec0b8a37ffacf.jpg 133,338,335,465,1
+healthy_fish_koki_027_jpg.rf.cba40ed1834b343212125bcece064ecb.jpg 0,102,640,567,2
+healthy_fish_koki_114_jpg.rf.cb966ac241eacf885956c4a430342d66.jpg 99,0,598,640,2
+healthy_fish_koi_162_jpg.rf.c75f527d0cc21efe3ccc474f3275342b.jpg 168,0,316,217,2 180,245,245,473,2 265,408,331,591,2 379,246,482,589,2
+healthy_fish_koi_077_jpg.rf.cc554f99f3164fd4eb59882f7eda13b6.jpg 20,4,176,156,2 172,283,318,502,2 87,96,318,329,2
+healthy_fish_koki_243_jpeg.rf.cbe577ea766b215b2e8cfd95bbbf1105.jpg 138,21,464,498,2
+healthy_fish_koki_018_jpg.rf.ccd50728bc310258659434b6247b24ee.jpg 111,88,566,564,2
+bacterial_diseases_koki_066_jpg.rf.ccc77b2ffc410b57aec3d2b2f5d4b184.jpg 118,173,262,421,0
+bacterial_diseases_koki_081_jpg.rf.cb57f32450b4ce128dada72b39c583d4.jpg 155,260,277,471,0
+parasitic_diseases_koi_014_jpeg.rf.c7a1f7c5f7de1e13a7c9032ee61905ac.jpg 370,376,471,512,3 359,223,425,317,3 260,133,358,233,3 281,298,326,354,3 204,289,257,364,3 31,85,92,179,3 25,194,72,254,3 80,203,153,305,3 168,228,213,322,3 74,38,123,118,3 113,24,181,93,3 132,83,269,249,3
+healthy_fish_koki_200_jpg.rf.cddbf8170d6d91ed6027dfd22e6a0178.jpg 14,71,510,640,2
+healthy_fish_koi_108_jpg.rf.cdc5de29b17121f60c7592b6ef76f7f0.jpg 265,280,487,636,2 4,318,128,631,2
+healthy_fish_koki_104_jpg.rf.cf87fc6d4e2188e493d19f376b7c7273.jpg 62,145,565,576,2
+healthy_fish_koi_163_jpg.rf.cfaae9c680430e6131eb4452dd5e05ab.jpg 132,0,322,251,2 337,228,479,604,2 249,429,323,627,2 156,279,223,513,2
+healthy_fish_koi_080_jpg.rf.ce63834717ba414db5fc656c4fb4e450.jpg 81,262,301,431,2
+white_tail_diseases_koki_068_jpg.rf.d227a9a2857718999f3670d5b865e9d2.jpg 29,238,269,528,4
+healthy_fish_koi_191_jpg.rf.d05265c33b470c01ce02a70612b019a8.jpg 146,146,264,328,2 328,170,640,640,2 259,357,355,492,2
+fungal_diseases_koki_008_jpg.rf.cefd13975483a91365f02dfea8c91c20.jpg 357,238,416,389,1 293,55,379,203,1 227,313,379,639,1
+healthy_fish_koki_009_jpg.rf.d356a44a8210b13eac9320c79c2dba6d.jpg 206,186,368,363,2 309,149,478,505,2
+healthy_fish_koi_287_jpg.rf.d0c00c57c05aec1e746ed3a376c03ae4.jpg 47,314,523,552,2 235,0,479,139,2 0,481,277,640,2
+bacterial_diseases_koki_010_jpg.rf.d2e55692225d8745767aa4c7fb4a6145.jpg 282,252,377,342,0
+healthy_fish_koi_182_jpg.rf.d3b6390001e0619b222e6568449f4b5d.jpg 83,128,625,566,2 521,0,598,110,2 383,0,448,113,2 213,0,311,106,2 555,57,640,312,2
+fungal_diseases_koki_047_jpg.rf.d3922ef8ed7a1430057e68ebe7ea25c5.jpg 283,254,374,319,1 276,373,409,407,1 292,327,394,357,1 388,221,498,283,1 517,201,589,273,1 420,289,507,348,1
+parasitic_diseases_koki_022_jpg.rf.cecd349ad86359c4820adc18baad484a.jpg 209,254,515,534,3
+healthy_fish_koki_004_jpg.rf.d1fec6cb5ffd7baf680d1b234f8df0d9.jpg 16,0,512,640,2
+bacterial_diseases_koi_060_jpg.rf.d15752319573ffd645441a00f44157df.jpg 247,109,425,270,0
+fungal_diseases_koki_004_jpg.rf.d1680da401bd4ff74c507fb04ebc59df.jpg 519,178,599,275,1 258,204,423,434,1
+bacterial_diseases_koi_030_jpg.rf.cf74724e12696c716d132f3d830e8d88.jpg 123,208,296,394,0
+healthy_fish_koi_197_jpg.rf.d3d345a42fe0c116aa72b9188f861902.jpg 169,378,496,640,2 195,298,281,493,2
+healthy_fish_koki_190_jpg.rf.d20938d40afbba014c5ca0c333344767.jpg 12,114,605,640,2
+healthy_fish_koki_225_jpg.rf.d1d1b18b1bbca17120298b278bfa3dc3.jpg 109,280,433,473,2 441,249,640,427,2
+healthy_fish_koki_097_jpg.rf.ceb0dc218aff52cc38bbbb8158f2c27b.jpg 202,91,564,587,2
+healthy_fish_koi_016_jpg.rf.d1955463325f8cc89f30cf15c99c9026.jpg 8,79,629,587,2
+bacterial_diseases_koki_071_jpg.rf.d156841ed45544a94fa9725cd22e1272.jpg 147,267,272,515,0
+bacterial_diseases_koi_031_jpg.rf.d59d02a356a9401d7577fc987fd42ec6.jpg 129,160,279,463,0
+healthy_fish_koi_128_jpg.rf.d5f4471fde9d5d6c444c2f26468df575.jpg 49,182,162,349,2 323,163,511,487,2 178,327,274,496,2 77,374,218,634,2
+healthy_fish_koi_122_jpg.rf.d475f115c297cf1b50532597b6355809.jpg 37,377,112,534,2 82,105,250,412,2 34,266,175,469,2
+bacterial_diseases_koki_042_jpg.rf.d5bfd3b338d857bbce50c03de9bd3ada.jpg 189,203,320,480,0
+fungal_diseases_koki_060_jpg.rf.cdfe02d8f2402ec9ce67143e12ff1939.jpg 220,468,253,510,1 277,567,314,612,1 257,509,284,570,1
+parasitic_diseases_koki_009_jpg.rf.d708428f068af5e21cd32baad5c0d845.jpg 270,162,480,442,3
+parasitic_diseases_koi_024_jpg.rf.d3c628c43bac8ce8bfc84c1d5c5eb0ec.jpg 377,383,465,509,3 360,220,428,318,3 278,298,324,350,3 203,295,255,360,3 262,133,332,221,3 175,119,257,241,3 25,190,74,253,3 128,71,200,247,3 130,24,179,79,3 33,103,93,178,3 76,43,118,117,3 78,203,138,291,3 123,253,168,316,3 161,232,208,314,3
+healthy_fish_koki_170_jpg.rf.d6e1e1f252c5a36631675b5bfe0b5aea.jpg 60,138,603,617,2
+healthy_fish_koi_198_jpg.rf.daed4653c317c6c2e870e31c85881667.jpg 349,335,551,640,2 92,305,290,451,2
+healthy_fish_koi_246_jpg.rf.d70374d14955c3deac7eb32c1cfdd161.jpg 28,0,239,356,2 323,10,422,225,2 362,303,414,500,2
+bacterial_diseases_koki_058_jpg.rf.d7e54d8eb6f17a662c8dc77833dcc9da.jpg 153,249,284,486,0
+healthy_fish_koi_274_jpg.rf.d60a694435b3b6ad0281be8dd2737d9c.jpg 95,333,456,525,2
+fungal_diseases_koi_040_jpg.rf.daa60731bfb3b9de80ba347c9c43c95e.jpg 329,65,372,109,1 343,28,369,61,1 305,259,347,302,1 333,230,362,266,1
+white_tail_diseases_koi_017_jpg.rf.d8b2e2df6b7f58e78013b55c03db7267.jpg 383,473,493,593,4
+healthy_fish_koki_221_jpg.rf.dbe57e2c16ca0cf9d6ca9b156afec36e.jpg 131,262,465,454,2
+bacterial_diseases_koki_007_jpg.rf.dc54a586bc57cf272c00dba8956bf7ee.jpg 159,368,208,457,0
+parasitic_diseases_koki_010_jpg.rf.d70028d985913cc5d5467f9cec48fa66.jpg 271,172,473,434,3
+healthy_fish_koi_170_jpg.rf.de2c7c636d6a5068385fb85858208c0d.jpg 0,251,478,600,2 49,180,266,328,2 232,0,445,235,2
+fungal_diseases_koki_049_jpg.rf.db3f615b46fd6e2615ccabb619aac33f.jpg 59,159,157,247,1 164,199,264,275,1 233,367,371,413,1 248,333,359,380,1 262,310,348,354,1 274,257,365,319,1 129,233,217,326,1
+healthy_fish_koi_044_jpg.rf.dd19932485750439f54988e1f62ae3a7.jpg 116,4,494,621,2
+healthy_fish_koki_134_jpg.rf.d63afe393ae0c6159efda8b7d2b12c19.jpg 158,251,533,459,2
+fungal_diseases_koi_025_jpg.rf.df6c33ae848c383c23d37a64870c4f90.jpg 238,134,420,293,1
+parasitic_diseases_koki_017_jpg.rf.de54c2e602e332c5c1ddbc3fb35abbac.jpg 223,272,475,479,3
+healthy_fish_koki_224_jpg.rf.dc7cc2ff02823e1a01c9f20079158801.jpg 142,201,559,519,2
+healthy_fish_koi_057_jpg.rf.d9f8221f1cd333d77df62d4a88a61bb8.jpg 79,25,522,611,2
+healthy_fish_koi_017_jpg.rf.e08ed5cfbef9436afd03c89b76f40fe2.jpg 10,87,627,583,2
+healthy_fish_koki_179_jpg.rf.dec6d42b57219541c00273dde368d27b.jpg 0,0,640,640,2
+healthy_fish_koki_273_jpeg.rf.e0ed8e7c9799a1da241ea020abb7c80c.jpg 142,248,458,417,2
+healthy_fish_koki_246_jpeg.rf.e14e2ff32c7daf7e3b7a01fdd27b6199.jpg 0,81,573,563,2
+healthy_fish_koki_022_jpg.rf.e0ae0c3ff7dd6dc43b638bfa3212f319.jpg 216,84,553,607,2
+bacterial_diseases_koi_054_jpg.rf.e15e908e1821e13da5357e82ee860172.jpg 214,328,372,456,0
+healthy_fish_koi_192_jpg.rf.e1451766f1e824a8c68e44adc12dc6c7.jpg 180,84,238,270,2 220,321,276,490,2 273,96,640,640,2 305,349,441,640,2
+healthy_fish_koki_108_jpg.rf.e0262cf803269f019cf13a58897980cc.jpg 36,0,394,622,2 330,0,640,544,2
+healthy_fish_koi_084_jpg.rf.e3cdfa9c0e94c9ffbf51fddbe4a69e7a.jpg 39,302,184,636,2 157,334,315,634,2 447,230,511,367,2
+healthy_fish_koki_094_jpg.rf.e19faa77ce199396e15cf55bfe510369.jpg 19,0,495,513,2
+fungal_diseases_koi_027_jpg.rf.dd827daf8fd68b23423bb6b5f3fd2c42.jpg 240,88,383,270,1
+healthy_fish_koki_168_jpg.rf.e27900a45ffb1ed1e3e5221b433a63df.jpg 54,81,640,606,2
+healthy_fish_koki_245_jpeg.rf.e41ce1acf9928be56214640d3c9ec432.jpg 207,140,634,395,2
+healthy_fish_koi_221_jpg.rf.e30db9b32625004783162a6a8f72c4e6.jpg 220,6,365,386,2 338,62,408,227,2 416,118,517,211,2
+white_tail_diseases_koi_010_jpg.rf.e207b7215b05404672f388c90cd70516.jpg 33,90,277,388,4
+bacterial_diseases_koki_096_jpg.rf.e3b11406fba71ddd33b014caf060290f.jpg 288,248,331,386,0
+bacterial_diseases_koki_045_jpg.rf.e2ca4f01083eb76f5277358f6537d174.jpg 323,231,425,425,0
+healthy_fish_koki_011_jpg.rf.da0d3ef5077a639672982828280bc2e7.jpg 168,53,589,627,2
+healthy_fish_koi_144_jpg.rf.e4b04612f7eed6a755d9b9bd2386e9b6.jpg 119,232,541,429,2 297,4,394,148,2 166,87,245,502,2 0,0,128,470,2 0,497,478,640,2 316,330,624,540,2
+healthy_fish_koki_143_jpg.rf.e49078a2da94af8ca60b64b4634ca4c3.jpg 39,285,373,514,2
+healthy_fish_koi_048_jpg.rf.e56c8c349a9d9304066d04ecb3b4772f.jpg 5,213,543,501,2
+parasitic_diseases_koi_031_jpg.rf.e6c8c656fa34991e237ed061873c0ea4.jpg 227,100,449,321,3
+white_tail_diseases_koi_031_jpg.rf.e6673f0327f011045e1719d4fc0cfb21.jpg 25,250,228,463,4
+fungal_diseases_koi_039_jpg.rf.e2faefcde6b60cb80187ec38b8689368.jpg 13,282,45,308,1 51,280,93,321,1 214,290,249,314,1 245,295,290,340,1
+fungal_diseases_koki_009_jpg.rf.e6e30d4575d77d0f126cafbdf5427bb6.jpg 182,63,279,185,1 43,294,86,365,1 424,307,503,448,1
+healthy_fish_koki_137_jpg.rf.e75f4ed0b0cc6554690cc084c3018a9c.jpg 33,122,496,500,2
+healthy_fish_koki_178_jpg.rf.ec5ca5d739c9a002a988bb3e481b8d5b.jpg 0,0,527,640,2
+healthy_fish_koki_045_jpg.rf.e650b2ae37e7302884fb78b98a2186e1.jpg 81,0,555,640,2
+healthy_fish_koki_129_jpg.rf.ecc870d5a89e5ce594ae2532350b33e9.jpg 115,97,560,629,2
+healthy_fish_koi_008_jpg.rf.ec8605ea44d6e40ba7cb4e63635e4010.jpg 10,126,603,525,2
+healthy_fish_koi_134_jpg.rf.ecd2a31737aa21000754573795d2b1d8.jpg 118,382,187,596,2 67,194,187,505,2 201,34,329,327,2 241,6,446,132,2
+healthy_fish_koki_096_jpg.rf.ec7bbc1ca1dd1d2460b5a4ee1aa68350.jpg 34,112,546,602,2
+healthy_fish_koi_175_jpg.rf.eb15c1c8b6650031c131812d18d3a0c6.jpg 405,193,525,640,2
+healthy_fish_koi_238_jpg.rf.ed98cfda7f3afb079a49dfc084f44335.jpg 0,255,448,574,2 222,62,364,208,2
+healthy_fish_koki_120_jpg.rf.e8e3426659d9744460f1af9c0f5aa3ca.jpg 65,128,413,499,2
+healthy_fish_koki_172_jpg.rf.e5ba746f11c260ebdbaf3ccca55f14ce.jpg 84,147,582,599,2
+healthy_fish_koki_244_jpeg.rf.e6de56c3a70a7f26596b298bd9820d64.jpg 99,191,431,413,2
+white_tail_diseases_koi_011_jpg.rf.ee97898ada03cd6cd64d00be9feead7f.jpg 374,260,603,551,4
+bacterial_diseases_koi_006_jpg.rf.eb1e839aa0520439f6c73981cbf1dd14.jpg 392,254,517,552,0
+healthy_fish_koi_218_jpg.rf.ef8bbdb06fa59e665d6b64b36483c9be.jpg 175,119,443,457,2 301,125,355,300,2 519,31,587,134,2
+fungal_diseases_koki_010_jpg.rf.ef7d9030e2e96b7b5d032f45febaf4b1.jpg 295,247,345,330,1 325,222,381,259,1 368,274,386,300,1 376,259,380,263,1 339,343,358,369,1 329,319,348,342,1 365,333,393,373,1 393,278,429,331,1
+healthy_fish_koki_069_jpg.rf.e70333ebf9d692714778489b134bd65b.jpg 23,78,581,608,2
+healthy_fish_koki_078_jpg.rf.eebb4e15bff5af0812362a6e4d31f078.jpg 110,110,509,613,2
+bacterial_diseases_koki_031_jpg.rf.e78cf41ef8ecf6838cda53b549ee5740.jpg 344,243,407,425,0
+bacterial_diseases_koki_053_jpg.rf.e73bd075ed3b23597994c8a6eead9d8b.jpg 148,240,277,500,0
+fungal_diseases_koi_010_jpg.rf.ee44103789d29a9c315ea5441578679a.jpg 308,258,370,348,1 363,293,405,340,1 392,335,419,367,1 365,233,418,275,1 450,293,516,345,1 413,360,445,395,1 463,362,508,400,1
+white_tail_diseases_koi_006_jpg.rf.f09e29da5d8e410aee0c9b37c667f36a.jpg 453,151,601,429,4
+healthy_fish_koki_226_jpg.rf.f1be0939e161f1b1b06e225da2f407bc.jpg 155,273,431,476,2 437,250,640,430,2
+healthy_fish_koki_230_jpg.rf.efa1dc22cacdaa3d5ad9e2ad2429fe19.jpg 226,260,423,496,2 462,281,640,521,2
+bacterial_diseases_koi_079_jpg.rf.f40910dfb81fd3b5303a3a14012ec308.jpg 263,144,440,303,0
+fungal_diseases_koi_037_jpg.rf.f10b7fe75f7bf9f29e196912adf234aa.jpg 204,212,295,338,1 310,184,384,298,1
+white_tail_diseases_koi_004_jpg.rf.f522ff7b20f8b8065fad269239e441e9.jpg 20,202,108,345,4
+bacterial_diseases_koi_099_jpg.rf.f3e9c3d0acee922925151ca7cc202896.jpg 170,193,560,397,0
+healthy_fish_koki_054_jpg.rf.f361dd555f4384ae387f14ac2d38b5e1.jpg 59,0,624,640,2
+fungal_diseases_koki_042_jpg.rf.f2e1222344a8366d7d4f885082a14b9d.jpg 277,276,403,295,1 268,230,396,273,1 293,323,380,384,1 290,298,401,319,1 392,348,508,412,1 522,344,611,425,1 419,286,521,341,1
+white_tail_diseases_koki_077_jpg.rf.f528b0c606985f4de8f1d74a34661b3e.jpg 354,199,640,431,4
+bacterial_diseases_koi_074_jpg.rf.e6b97c2c1084f8b14f072c301c5911e9.jpg 163,243,315,441,0
+healthy_fish_koki_232_jpg.rf.f2d5515458f4ff75aec477d7b0e19dc9.jpg 0,0,570,640,2
+white_tail_diseases_koki_019_png.rf.f1b29b825c7687362db8cbefbd61c802.jpg 0,140,120,484,4
+healthy_fish_koki_065_jpg.rf.f6b80f0c393df37fdb5ac0769d3931b5.jpg 86,129,481,561,2
+healthy_fish_koki_033_jpg.rf.f54e99a25896d635481d0508606eb3d3.jpg 24,59,561,589,2
+white_tail_diseases_koki_100_png.rf.f71de536b530ce6390732745e2c29e92.jpg 431,202,557,448,4
+healthy_fish_koki_006_jpg.rf.f4cf84360a60701eeb74f8b660ff6e49.jpg 18,0,598,640,2
+fungal_diseases_koki_054_jpg.rf.f5ec3e24cd54c5da169bfdb97faea1a1.jpg 168,343,197,388,1
+healthy_fish_koi_047_jpg.rf.f5252c2515175b3602b4eb4dbe1919f0.jpg 4,58,635,537,2
+healthy_fish_koki_125_jpg.rf.f4ba12e4539b672fa4bfccdb80b7905e.jpg 27,7,608,626,2
+healthy_fish_koi_152_jpg.rf.f72dbe0743cf115208cc510857a28083.jpg 445,0,640,180,2 250,404,640,640,2
+healthy_fish_koi_146_jpg.rf.dfae4905c1094896e26433b9e7d734a0.jpg 185,284,640,574,2 387,149,452,328,2 323,0,404,309,2 194,0,319,212,2 518,0,640,360,2
+bacterial_diseases_koki_093_jpg.rf.f964fa185f6951b9261eafafeb4a0853.jpg 153,209,275,263,0
+white_tail_diseases_koki_044_jpg.rf.f72322b8f485d2b800886a32a8671b16.jpg 47,343,234,582,4
+bacterial_diseases_koki_001_jpg.rf.fa3f26f3b63e09b2a8f24f8681119ff4.jpg 300,282,436,468,0
+healthy_fish_koi_106_jpg.rf.f7961e49c42fb4ccc5ad7aba28a60e41.jpg 42,28,86,150,2 92,27,262,493,2
+healthy_fish_koki_132_jpg.rf.f0100616a2b06b76baa59896ac0915c4.jpg 79,67,405,558,2
+bacterial_diseases_koki_030_jpg.rf.f9229b8a2e26ac61703a3ff76075353f.jpg 50,223,100,327,0 140,262,257,373,0
+healthy_fish_koi_243_jpg.rf.f8cfda10adc4c8cb88964fc211d7c5b5.jpg 122,0,397,626,2 0,129,60,353,2
+fungal_diseases_koki_059_jpg.rf.fc16d41cd80455ad23a3da89b2f63e62.jpg 467,215,515,254,1 508,249,536,269,1 542,253,570,280,1 568,271,595,289,1 582,282,610,308,1
+healthy_fish_koki_068_jpg.rf.f862562dd6948077efce4e227f3ce96c.jpg 39,153,561,539,2 0,0,262,166,2
+healthy_fish_koki_001_jpg.rf.fc10a8be4d7759e922229b55677015a9.jpg 170,8,583,573,2 0,250,149,567,2
+healthy_fish_koi_131_jpg.rf.f8b0cc427e385705c64df49198066a85.jpg 283,110,381,427,2 69,312,206,634,2 160,489,262,618,2 5,256,84,484,2
+healthy_fish_koi_065_jpg.rf.fc3ea62170033ceb50037e562b1965b8.jpg 134,5,406,624,2
+healthy_fish_koki_079_jpg.rf.f992f675ba0b995cdb9892f33f60d9f5.jpg 0,89,621,594,2
+fungal_diseases_koi_024_jpg.rf.fb65ce500f39f1b941fd89f0a4996bbd.jpg 208,135,380,289,1
+healthy_fish_koi_063_jpg.rf.f78e86066315bea3189c165e75466f13.jpg 109,39,632,220,2 152,186,630,419,2 215,280,637,557,2 3,275,353,637,2
+white_tail_diseases_koki_033_jpg.rf.f98a133ad1d53d91109846d12c643e84.jpg 43,323,201,556,4
+bacterial_diseases_koki_074_jpg.rf.f7635cadba7c8db7faecee825cfdcc31.jpg 170,248,301,494,0
+fungal_diseases_koki_056_jpg.rf.fd174119dac7219ab84ca33e77fb9c57.jpg 212,130,248,183,1 253,73,278,105,1 269,55,288,79,1 278,34,309,60,1 247,106,267,136,1
+white_tail_diseases_koki_053_jpg.rf.f7ab48faf0d3a42abc2b0e35d4736cfe.jpg 173,443,270,523,4
+parasitic_diseases_koi_032_jpg.rf.fc92e38cad057aaa1cfaba7bb44f9bcd.jpg 108,223,332,435,3
+bacterial_diseases_koi_098_jpg.rf.fc73602f67d3e9d4add97e6d700bc73f.jpg 175,162,530,374,0
+healthy_fish_koki_199_jpg.rf.f2c35e46eefaa4973ef70aa5b302efea.jpg 121,130,422,547,2
+white_tail_diseases_koki_028_jpg.rf.fd58952859ca4c17bee9d4b2127621b2.jpg 430,146,628,603,4
+healthy_fish_koki_025_jpg.rf.fd908ff04316c4f88d6d52bfc4060ac5.jpg 100,91,547,443,2
+white_tail_diseases_koki_048_jpg.rf.fd622c547ada534ca51d4cf804c2be1e.jpg 443,248,569,405,4
+parasitic_diseases_koi_011_jpg.rf.fd370ad70435ad86845859139585dc3e.jpg 179,218,358,394,3 369,238,510,383,3
+healthy_fish_koi_039_jpg.rf.fdf76770494221f50c8231a862a36d43.jpg 83,140,635,635,2
+bacterial_diseases_koi_056_jpg.rf.fe18d3371502908643e080eb5ce506cb.jpg 108,235,280,448,0
+bacterial_diseases_koi_014_jpg.rf.fed62aed0afdf70793197fcc44ffa0c9.jpg 190,199,389,496,0
+bacterial_diseases_koi_025_jpg.rf.feaa0af63bb9dc076280a7c266102eb3.jpg 233,203,458,529,0
+healthy_fish_koi_241_jpg.rf.fe66ed38e86d2ba2e1d601acaba4bb71.jpg 123,362,371,519,2
+bacterial_diseases_koi_052_jpg.rf.fcb17340a8a76a3f6385322e1be31f07.jpg 305,362,455,491,0
+white_tail_diseases_koki_085_jpg.rf.ff6e83724afa93da6990cd02e31ecdd8.jpg 473,97,640,327,4
+healthy_fish_koki_202_jpg.rf.ff5c62ebe29ef7acdfb823b96d4f0adb.jpg 0,238,296,561,2
+healthy_fish_koi_166_jpg.rf.febfa0b4a7cd1c0e6ab59bee4f3d9027.jpg 314,0,475,176,2 230,202,405,380,2 0,81,346,408,2
+fungal_diseases_koi_014_jpg.rf.fee9e7fc1364e99b20ebc752ad9c3db3.jpg 337,103,364,136,1 395,205,428,235,1 483,373,544,443,1
+bacterial_diseases_koi_043_jpg.rf.ff55e6ffee1dc93cbc9e9dde5c4b143e.jpg 59,125,345,590,0
+bacterial_diseases_koki_046_jpg.rf.ffbeab95eb3218c71070e76ac5d9dcf0.jpg 193,177,320,503,0
+bacterial_diseases_koi_027_jpg.rf.fb7511d8bde8872784196eadd72befd3.jpg 140,332,542,556,0
+healthy_fish_koi_265_jpg.rf.ff2c3863e135c8a94cb69a0868634a48.jpg 0,0,290,458,2
+healthy_fish_koki_213_jpg.rf.ff2e00e773c966e7b379b5974acd4790.jpg 209,269,504,426,2
+bacterial_diseases_koki_032_jpg.rf.d64e64fd8c9629a30b947e12ba72b9d0.jpg 190,248,371,355,0
+healthy_fish_koki_266_jpeg.rf.e48c59346f220ea2aa675e77194387d8.jpg 289,129,640,423,2
+healthy_fish_koi_120_jpg.rf.f605c829c44781d9cd82fd6087b723e5.jpg 177,15,514,629,2 335,177,635,436,2
+healthy_fish_koi_142_jpg.rf.f2ae5ebc80de322bada8b56d13fd2ee4.jpg 211,1,613,432,2 185,311,392,539,2 233,5,350,251,2
+white_tail_diseases_koki_011_png.rf.fadd90723a2b1556111657c534a25fd8.jpg 0,196,155,546,4
+healthy_fish_koi_281_jpg.rf.8475f33bb406fa9396e85cdd949c4d63.jpg 62,208,383,599,2
+bacterial_diseases_koki_076_jpg.rf.7fed9288e5adebab46335a16a32b1824.jpg 139,232,285,508,0
+healthy_fish_koi_294_jpg.rf.8030e378c080316bfdfce50ecf5378c6.jpg 0,220,304,418,2 350,380,496,640,2 95,405,277,618,2 113,112,316,269,2
+bacterial_diseases_koki_073_jpg.rf.80703fac2c05553c329078e0f7d28eef.jpg 258,105,510,241,0
+bacterial_diseases_koi_019_jpg.rf.818c98906cd0fe5c1e6c65a40e4970a1.jpg 42,113,300,503,0
+healthy_fish_koi_168_jpg.rf.7f780128aa712c9647821dbb02ff5a8c.jpg 286,0,465,228,2 0,103,384,513,2
+bacterial_diseases_koi_045_jpg.rf.812f8a953dcdd1fc101db6cc6a74d12e.jpg 14,8,567,288,0
+healthy_fish_koi_026_jpg.rf.807ede2bc800c6d6c53eb910c0cac99d.jpg 164,12,509,605,2
+healthy_fish_koki_093_jpg.rf.8308df0c8ead643a46f2608998d3c049.jpg 212,104,591,331,2 152,307,423,517,2 0,307,192,488,2
+bacterial_diseases_koi_095_jpg.rf.82c5a1224cca67485af1668fb52dfad4.jpg 150,53,630,282,0
+bacterial_diseases_koki_015_jpg.rf.807e127eea5c2f6d29f09f1e62946e56.jpg 193,264,276,379,0 133,287,173,356,0
+bacterial_diseases_koi_089_jpg.rf.8048a2ed294aa1c8646d8a4b0df11f94.jpg 143,283,470,451,0
+parasitic_diseases_koi_002_jpg.rf.81adc7697fb7815e4b2fd919c4807aeb.jpg 227,393,318,460,3 348,509,406,568,3 375,470,416,514,3 109,535,156,576,3 35,524,86,572,3 58,447,99,485,3
+bacterial_diseases_koi_061_jpg.rf.82e498d8ef4e7c4a4b6aa2256a8a0f16.jpg 177,123,357,270,0
+healthy_fish_koki_141_jpg.rf.8498c2975018acc6a03f7511b4532267.jpg 237,177,520,380,2
+healthy_fish_koi_021_jpg.rf.83daf0193a87921afcb4e6397052cd87.jpg 28,12,626,601,2
+healthy_fish_koki_111_jpg.rf.834b6dbd5a9079eef1822ebe15d03338.jpg 134,137,453,563,2
+white_tail_diseases_koki_040_jpg.rf.7f4b9f84aa2ecf259cb501d533d36488.jpg 440,344,626,640,4
+healthy_fish_koi_130_jpg.rf.800f4d635026ea183f4c272469b761e5.jpg 287,120,432,450,2 166,382,259,605,2 105,329,202,635,2 5,215,105,440,2
+healthy_fish_koi_032_jpg.rf.83a859788349b34235709fa7fcc783d2.jpg 158,43,495,619,2
+healthy_fish_koki_299_jpeg.rf.84cd6f0edf07b5420e70cb3f94b4a6cc.jpg 81,314,561,548,2
+healthy_fish_koki_298_jpeg.rf.82819027be29d3e2b13c045c5f528a60.jpg 198,205,450,458,2
+healthy_fish_koi_058_jpg.rf.862dc94a8c40415772600996b017cfd7.jpg 117,10,422,632,2
+white_tail_diseases_koi_012_jpg.rf.85e4c73896603b3bfb9c9923dbeeecdd.jpg 35,128,243,406,4
+white_tail_diseases_koki_082_jpg.rf.851005fe4741a69e95dde41cd63f43d6.jpg 13,200,298,417,4
+healthy_fish_koi_014_jpg.rf.8630ec57caae200fa765f2612f935fdc.jpg 8,38,548,604,2
+healthy_fish_koi_158_jpg.rf.8687b1b0ba31dce41cf5265d399d679f.jpg 328,224,605,543,2 0,26,139,526,2 338,16,393,184,2
+healthy_fish_koi_249_jpg.rf.8a9f3fb176aa3ac3747b9001ebd3793b.jpg 23,22,259,513,2 349,86,451,325,2 390,475,476,640,2
+healthy_fish_koki_216_jpg.rf.8998761448b3c4836d5e944dc2974c35.jpg 170,262,425,423,2
+fungal_diseases_koi_018_jpg.rf.85d4d66a9f99c19fff115e5e123b6195.jpg 309,178,514,320,1
+white_tail_diseases_koi_028_jpg.rf.888fd1ac767477b46ea0b7ed166373d1.jpg 185,120,608,502,4
+bacterial_diseases_koki_027_jpg.rf.86ff0a249284e4b3192412473f44807f.jpg 368,230,475,331,0 514,235,553,324,0
+white_tail_diseases_koi_002_jpg.rf.8812dd5da7b722dcbd667667614b80d6.jpg 430,100,595,432,4
+bacterial_diseases_koki_059_jpg.rf.89093f67b943d42d1d2dd2c7fe35e797.jpg 168,327,401,463,0
+healthy_fish_koki_131_jpg.rf.889cc7273e461de206a1b245f0163415.jpg 128,414,586,628,2
+healthy_fish_koki_247_jpeg.rf.8968c52c609f043207af6f7e3e0faf6e.jpg 0,296,540,640,2
+healthy_fish_koi_075_jpg.rf.8870374d6a2913e26631f66b42d43099.jpg 94,10,551,613,2
+white_tail_diseases_koki_020_png.rf.8a49e0001d6588aff95df5f6bd0cdf4d.jpg 478,166,573,429,4
+healthy_fish_koki_073_jpg.rf.86aa7a250c52bebe147bf9cfed2d972f.jpg 86,241,241,479,2 205,76,425,554,2 338,0,640,311,2
+healthy_fish_koki_076_jpg.rf.897f6a32dc34611ed9c827638375ebfe.jpg 175,156,606,493,2
+parasitic_diseases_koi_037_jpg.rf.8a22c168a6b5378e6620e4a2ba8ad84b.jpg 377,383,460,514,3 473,447,524,533,3 358,215,428,319,3 280,305,328,355,3 207,290,255,363,3 262,138,328,233,3 169,233,218,320,3 20,193,73,249,3 68,199,162,306,3 178,123,257,245,3 138,75,202,215,3
+healthy_fish_koki_147_jpg.rf.8169d287f89984feb2aaaf34f1166b54.jpg 12,269,358,468,2
+healthy_fish_koi_190_jpg.rf.7fd7d1c0019de9e56fd8303a6aa3dacf.jpg 349,214,639,640,2 284,362,396,518,2 108,185,267,352,2
+bacterial_diseases_koki_063_jpg.rf.8ad0b41960f6af1d3ea50998e6ec6444.jpg 214,348,462,493,0
+bacterial_diseases_koi_080_jpg.rf.8b43b495e60463c4daeff9a224642144.jpg 182,329,365,492,0
+parasitic_diseases_koki_015_jpg.rf.8b6f9ad44d14bc2c283ac9b0310e7c93.jpg 269,159,472,433,3
+healthy_fish_koki_181_jpg.rf.8f522811ed53a4986f6692cf845bf574.jpg 98,111,425,564,2
+healthy_fish_koi_143_jpg.rf.8f3592d01c5c1c567130cf835b29578f.jpg 6,63,340,409,2 5,379,386,635,2 268,337,424,633,2
+healthy_fish_koki_269_jpeg.rf.9048d542871e091029f408b9e03fd961.jpg 224,264,421,499,2
+white_tail_diseases_koki_001_jpg.rf.8dc85f48ec9dfd93210bc1c60f6deb6f.jpg 52,317,212,559,4
+healthy_fish_koki_142_jpg.rf.910fffe3c67cdf2b23dcf3586234edf8.jpg 287,268,529,419,2
+healthy_fish_koki_236_jpg.rf.8b1d458df43f6fad6bcb9deebc365aba.jpg 106,61,581,556,2
+healthy_fish_koi_224_jpg.rf.8f4895200dca6404e9454ad216c66695.jpg 11,115,345,640,2 428,84,516,222,2 0,0,129,203,2
+healthy_fish_koki_203_jpg.rf.8e254cae1163e2646868bce85a254995.jpg 230,191,584,481,2
+white_tail_diseases_koki_009_jpg.rf.90633e5f0a8c14dbbe5262ce9435f4a4.jpg 180,425,455,573,4
+parasitic_diseases_koi_001_jpg.rf.918a5a1bb003264623ff915d352c5e18.jpg 218,288,400,500,3
+white_tail_diseases_koki_012_png.rf.8dc15215b2b759eff5ebffeac72afe76.jpg 0,32,178,412,4
+healthy_fish_koi_115_jpg.rf.8e759f06111223ac6243070b5043bc37.jpg 226,6,495,290,2 325,329,458,421,2 565,297,636,416,2
+healthy_fish_koi_046_jpg.rf.8be6f14a29f4daac5b0efa6d374273e8.jpg 4,19,629,631,2
+healthy_fish_koi_141_jpg.rf.910b275e9147e1dffd3e52cc7792d647.jpg 211,0,566,455,2 148,408,398,596,2 242,37,415,425,2
+healthy_fish_koi_114_jpg.rf.8f9baba5a2e89e6c1709ad160149f933.jpg 206,6,462,240,2 312,301,436,387,2 552,236,633,351,2
+healthy_fish_koi_275_jpg.rf.8d23fa20f0a50e57f6e90e85b8566d9a.jpg 159,304,526,503,2 6,355,130,453,2
+parasitic_diseases_koi_035_jpg.rf.91ed4a89037de7e3e8e754044c6814ce.jpg 232,111,450,337,3
+parasitic_diseases_koi_006_jpg.rf.8b65026df4a7a913a40bd091004660e4.jpg 200,270,346,486,3
+healthy_fish_koki_101_jpg.rf.8e72babad3d8d9e4cc8bebfb6dae2f7f.jpg 0,65,436,591,2
+fungal_diseases_koi_001_jpg.rf.904b8477a96b5b0bf419c5aa0c80e415.jpg 348,133,453,301,1
+fungal_diseases_koi_034_jpg.rf.91b5b6a32cd754efef65b7eb041389cc.jpg 255,170,346,300,1 354,208,444,335,1
+parasitic_diseases_koi_030_jpg.rf.925f437611493020ce30d65ba63ce90f.jpg 98,203,331,421,3
+healthy_fish_koki_210_jpg.rf.92c4cdbe70ef9a5303a838fa1000f9cf.jpg 141,187,399,382,2
+white_tail_diseases_koki_078_jpg.rf.91f8be438a3e4e98a9e8b98d8691dd19.jpg 312,244,618,478,4
+healthy_fish_koki_219_jpg.rf.9289da24404a46fb52db35985bebb656.jpg 116,244,466,449,2
+bacterial_diseases_koi_081_jpg.rf.935ff31b1ab6d6c762b8d5fbc3a0e7d9.jpg 233,119,419,278,0
+healthy_fish_koki_240_jpg.rf.921c864a052e9770b8f4cb4824fd373d.jpg 38,76,636,499,2
+white_tail_diseases_koki_080_jpg.rf.8cb49f266d2fa6fd202210d8d7b8c282.jpg 6,198,307,418,4
+healthy_fish_koi_210_jpg.rf.9466972dc8a8ffdab22694c61d635cfd.jpg 180,210,438,345,2 400,0,596,156,2 273,253,564,579,2 0,260,360,619,2
+fungal_diseases_koki_011_jpg.rf.94d3dba4bd8b9f7bbef4adf90dc3720c.jpg 159,170,237,280,1 292,242,369,340,1
+healthy_fish_koki_046_jpg.rf.9538e2abe30aac82d04f144e9ec1940c.jpg 78,197,620,515,2
+healthy_fish_koki_100_jpg.rf.9473dad8e2eeb04d65f29d44cd810049.jpg 29,56,602,564,2
+white_tail_diseases_koi_027_jpg.rf.934148ebfd2af7dccec63e40472c1230.jpg 33,118,459,498,4
+parasitic_diseases_koi_027_jpg.rf.929ceef615eed47eb96d27e58cc47b16.jpg 308,220,535,462,3
+white_tail_diseases_koki_094_jpg.rf.97231459abc3081272b3efd501c5a47d.jpg 218,339,427,627,4
+healthy_fish_koi_159_jpg.rf.9118a5a2dcce831fd626b65c051774e4.jpg 303,61,362,231,2 315,226,593,539,2
+healthy_fish_koi_054_jpg.rf.936a5b26471de588e476d97e8d1878eb.jpg 174,181,497,522,2
+healthy_fish_koi_119_jpg.rf.9611415f125c0b771a4d54409c8ac360.jpg 253,7,530,523,2 404,202,571,368,2 437,28,634,241,2 448,423,631,634,2
+healthy_fish_koi_029_jpg.rf.97605a00615e85794b92e6ea7c3a0ba9.jpg 5,147,611,602,2
+healthy_fish_koi_035_jpg.rf.9718131c5b0c566aaeaa67bdc7a4887c.jpg 10,54,615,490,2
+healthy_fish_koki_115_jpg.rf.94c3f2eb9132642539ca5c290afa0046.jpg 41,0,579,640,2
+white_tail_diseases_koki_023_png.rf.95784fed1913406a1d6fa8c280c9b184.jpg 547,0,640,436,4
+white_tail_diseases_koi_018_jpg.rf.974fcfabe8a3c9ed5fe10273a8b87725.jpg 448,131,579,222,4
+healthy_fish_koi_299_jpg.rf.977766514b0ac7e3f7d4227ed2fcbc7a.jpg 265,141,503,406,2 0,0,141,401,2 119,161,425,640,2
+healthy_fish_koi_028_jpg.rf.9797e5ba5a3c2806b946f508455070bc.jpg 133,10,506,624,2
+bacterial_diseases_koi_084_jpg.rf.98276edd7ac4377bf0551e8cb7ec231a.jpg 288,136,460,291,0
+white_tail_diseases_koki_075_jpg.rf.970a0f53eac4fef8264728b4c8f8221a.jpg 189,0,381,158,4
+healthy_fish_koi_064_jpg.rf.991a72a925bf132d1615d1f9f952764d.jpg 16,50,621,360,2 18,263,617,599,2
+healthy_fish_koi_113_jpg.rf.986bbc35f12eae74682adbb37f37c059.jpg 174,6,462,221,2 7,98,306,272,2 286,286,406,363,2 521,187,637,293,2
+white_tail_diseases_koki_027_jpg.rf.9a5822c782eb3aef9b448cc07d66978d.jpg 420,143,601,582,4
+white_tail_diseases_koki_093_jpg.rf.98937d8409112a4f3546ca13aec839b3.jpg 233,13,444,321,4
+bacterial_diseases_koki_043_jpg.rf.9a830347c82d9dd68ac47113fbbc7487.jpg 305,103,474,452,0
+healthy_fish_koi_247_jpg.rf.9b3ed56456dfa993cec2536786a3baa9.jpg 375,349,433,569,2 29,0,240,409,2 329,31,430,257,2
+fungal_diseases_koki_027_jpg.rf.9a2b6daeac0d4afa53ca8a374dc2e8fb.jpg 118,171,218,285,1 252,412,409,549,1
+healthy_fish_koki_196_jpg.rf.9a7632512f7ffba8f2db7055e98b5c0d.jpg 0,0,529,640,2
+bacterial_diseases_koi_055_jpg.rf.9b996a0797045d9815b53f55cb17994f.jpg 153,215,283,389,0
+healthy_fish_koi_135_jpg.rf.9bce8b1142cbfbb0c13e516b6e57f498.jpg 193,17,311,312,2 70,183,184,471,2 109,380,162,576,2 267,5,439,154,2
+white_tail_diseases_koki_090_jpg.rf.9b3974e58a70ea339ac9ee0b56031e79.jpg 340,159,638,388,4
+healthy_fish_koi_208_jpg.rf.9a84cd37547380208d322db4c3b8d543.jpg 209,122,493,465,2 295,54,499,217,2 359,271,640,507,2 55,206,335,396,2
+healthy_fish_koi_055_jpg.rf.9c6e89ec79725e0cf57af1fdfcb16033.jpg 68,93,620,519,2
+healthy_fish_koki_233_jpg.rf.9aee58128acf862c1fd8e120e7538e80.jpg 136,0,565,640,2
+healthy_fish_koki_072_jpg.rf.9c5f115d049a47693a57cfb1c3b43c31.jpg 28,0,640,640,2
+healthy_fish_koi_085_jpg.rf.9c027f29f67cd6d3464570569cc5d3b0.jpg 222,270,281,390,2 326,28,449,177,2 438,18,554,183,2 5,189,117,525,2 130,467,254,638,2 394,312,563,636,2 297,145,414,634,2
+healthy_fish_koki_235_jpg.rf.9d27107c8e7054f2e9672b4bce803394.jpg 27,19,597,603,2
+white_tail_diseases_koki_072_jpg.rf.9ded52fc1b45c5f7be6cdf457dbac1d9.jpg 32,239,276,528,4
+healthy_fish_koi_189_jpg.rf.9c9a6e1e8d85d308cab244c20905215a.jpg 78,205,262,354,2 319,384,437,561,2 378,266,640,640,2
+bacterial_diseases_koi_017_jpg.rf.9c6dce921928b353cad3e42b144d56d7.jpg 153,160,443,564,0
+healthy_fish_koi_219_jpg.rf.a00129409b50aa92da93775354d8fa6c.jpg 179,92,396,533,2 312,99,379,276,2 553,6,624,132,2 405,149,490,264,2
+healthy_fish_koi_194_jpg.rf.9ee7af0bcf81d0a66dbe695620116b92.jpg 0,276,377,535,2
+white_tail_diseases_koki_041_jpg.rf.9ecff604da622f217c5b0eab2138b785.jpg 427,24,632,282,4
+healthy_fish_koki_112_jpg.rf.9e685b4b6fa66004a7fe900d3481a401.jpg 28,99,578,493,2 258,363,404,632,2
+healthy_fish_koi_041_jpg.rf.a0e0978396461878e6be65eb74f89f79.jpg 45,143,610,469,2
+healthy_fish_koi_236_jpg.rf.a13f420b2a4cd6267a2ea1e5896ed5eb.jpg 245,0,501,206,2
+healthy_fish_koi_262_jpg.rf.a22ac3ba2d02f5538f12b9f605a705ec.jpg 53,199,318,546,2
+healthy_fish_koki_204_jpg.rf.a0b7af50b72a685301baad79605a8faa.jpg 236,153,565,429,2
+healthy_fish_koi_235_jpg.rf.a2acbef76e6211d33812f6beec2969a8.jpg 276,0,538,205,2
+healthy_fish_koi_132_jpg.rf.a25b1ee7983e48261c248b6bb0dc8cce.jpg 258,90,356,401,2 84,276,214,631,2
+fungal_diseases_koki_014_jpg.rf.9e51beebca573e3ff858375afdd57581.jpg 370,288,450,397,1 419,253,466,297,1 481,313,531,375,1 441,386,463,412,1 455,412,479,446,1 495,400,521,446,1
+white_tail_diseases_koki_005_jpg.rf.a3ae00d32ffb96bd892ea73df2e39679.jpg 459,184,637,484,4
+parasitic_diseases_koi_004_jpg.rf.a0d5caee6f217ccd620a682acc3fd7e0.jpg 150,149,221,258,3 412,141,479,238,3 368,449,439,579,3
+healthy_fish_koi_177_jpg.rf.9d3f599b75ad2754f60a98392cc88e08.jpg 497,73,640,592,2
+healthy_fish_koi_094_jpg.rf.a39d7829b18859b1136ed0c759ddf8de.jpg 69,160,258,513,2 247,227,390,633,2 489,142,637,396,2 291,37,341,155,2
+healthy_fish_koki_029_jpg.rf.a2fc92e2bad9ee8047eb86efb67a04df.jpg 23,121,640,597,2
+healthy_fish_koki_135_jpg.rf.a3bf3258deb953135ce121926e568157.jpg 154,197,583,493,2
+bacterial_diseases_koi_058_jpg.rf.a594ea51b0c825171a5f94e2f52beca3.jpg 127,198,293,420,0
+fungal_diseases_koki_002_jpg.rf.a442c28af35231200db6d370da4a4be1.jpg 302,325,360,378,1 293,298,383,318,1 290,270,377,293,1 288,230,372,265,1 368,344,448,410,1 457,347,509,422,1 388,294,457,338,1
+bacterial_diseases_koki_052_jpg.rf.a4111980fa7aa0c4f7fb93ebe0334e7f.jpg 153,115,401,251,0
+healthy_fish_koi_101_jpg.rf.a3ca7efeaa5abf5019f55c417c388868.jpg 140,110,287,631,2 29,126,105,234,2 17,0,137,105,2 390,191,597,637,2
+healthy_fish_koki_183_jpg.rf.a5ca69db65e1bc40cdedf67aeb96d204.jpg 103,28,640,640,2
+bacterial_diseases_koi_076_jpg.rf.a5efd2189903caf41cabf1cabfded15c.jpg 123,253,283,433,0
+healthy_fish_koki_064_jpg.rf.a56c3d78caa373533321a9023d99482a.jpg 0,12,554,559,2
+parasitic_diseases_koki_004_jpg.rf.a55cbd08aa4af717cc48782d6c9e455e.jpg 441,245,507,310,3 253,268,328,349,3 393,432,436,485,3 438,500,507,554,3 480,360,558,427,3
+white_tail_diseases_koki_083_jpg.rf.a652e8023446b3599a45bba2296c879c.jpg 448,77,633,331,4
+healthy_fish_koki_274_jpeg.rf.a40733a8c6183d11b4d87b7932d6152b.jpg 0,122,497,486,2
+healthy_fish_koki_014_jpg.rf.a6bcda2727c3e104ad1dcd7783ca6dac.jpg 197,0,640,640,2
+healthy_fish_koki_095_jpg.rf.a6e7ce4b935961f0f9533d6834ca9062.jpg 29,104,260,616,2 337,53,624,640,2
+bacterial_diseases_koki_067_jpg.rf.a6a46e877e8ab10b4ea1babfdeb1cc50.jpg 154,343,392,533,0
+bacterial_diseases_koi_032_jpg.rf.a1cbc68e17004bd6e129c07e01a89d1c.jpg 344,9,491,317,0
+healthy_fish_koki_007_jpg.rf.a6f735df6d9b653e905b4057c80a0bb6.jpg 76,0,633,640,2
+fungal_diseases_koi_011_jpg.rf.a781259cac79389bccb0da905f4356cd.jpg 288,186,356,270,1 244,270,279,309,1
+bacterial_diseases_koi_039_jpg.rf.a876f43d95f5b4578810875aa6da93c8.jpg 323,98,617,612,0
+parasitic_diseases_koki_002_jpg.rf.a92fdae33179290412586cfc6646fd47.jpg 168,163,381,414,3
+bacterial_diseases_koi_022_jpg.rf.a89ebedbf7c11810a098937a844c4c38.jpg 343,158,493,440,0
+bacterial_diseases_koki_029_jpg.rf.99b3acdd94afaeb7bbb791107c53ccb2.jpg 387,259,496,391,0 543,308,593,415,0
+parasitic_diseases_koki_018_jpg.rf.a996605563bee9bf1dde113b763aa68f.jpg 279,258,332,334,3
+healthy_fish_koi_264_jpg.rf.ab67182f585e8cb299da80de5a823a18.jpg 17,63,285,478,2
+bacterial_diseases_koki_028_jpg.rf.a6bf1c285a93198d73954352e8f2472a.jpg 387,274,486,369,0 548,229,590,333,0
+fungal_diseases_koki_032_jpg.rf.a94c04b8d15c489f8c60789599b1a9a4.jpg 253,114,396,232,1 409,360,501,471,1
+bacterial_diseases_koi_050_jpg.rf.a89a4c1916f3df81a08fd6dc064b6487.jpg 123,253,280,428,0
+fungal_diseases_koki_033_jpg.rf.abb9e4c44c921b899e9f536b01af49ca.jpg 187,473,308,539,1 172,413,302,464,1
+white_tail_diseases_koki_029_jpg.rf.ab8fa167d56ad7e4beea6105e88320ee.jpg 433,148,622,593,4
+white_tail_diseases_koki_050_jpg.rf.ac14e8bf75c51adb2ad19d08388b0be9.jpg 159,414,457,627,4
+fungal_diseases_koki_031_jpg.rf.a86bcbe74c1c7f45ddb8fc8e407a1c0f.jpg 213,118,351,242,1 169,387,258,503,1
+bacterial_diseases_koi_087_jpg.rf.a7bfec36c1693917b5c46bfb5d071e34.jpg 113,155,474,328,0
+healthy_fish_koi_231_jpg.rf.ac56a985e6a7ab3c96f4ab89f2035460.jpg 174,12,451,325,2
+fungal_diseases_koki_046_jpg.rf.ac5f77bc71f19a11b51ab34c32dbf912.jpg 297,327,365,381,1 292,298,380,319,1 288,271,376,294,1 283,231,363,265,1 377,348,455,404,1 467,345,522,409,1 387,284,459,342,1
+healthy_fish_koi_076_jpg.rf.ab4fb17c1c4c0c83fcd51549616c2608.jpg 127,95,357,304,2 57,2,265,105,2 207,280,323,553,2
+white_tail_diseases_koki_016_png.rf.ae68764f2bd5127cd4548bcba39098da.jpg 442,169,600,455,4
+healthy_fish_koki_080_jpg.rf.ae9e66990800f63ec86079ac97454015.jpg 170,63,526,589,2
+white_tail_diseases_koki_069_jpg.rf.aa7a65b5c9c829195abc4481fb3f757d.jpg 204,18,500,267,4
+parasitic_diseases_koi_012_jpeg.rf.aa939738e568a0ef613cdc917cfb427b.jpg 207,310,413,529,3
+healthy_fish_koi_188_jpg.rf.b08d70d14a169e722b83afd558f0b10c.jpg 412,313,640,640,2 361,407,483,628,2 61,217,250,356,2
+healthy_fish_koki_227_jpg.rf.ae81ce49b6144cbd081ebdadda9ffb8b.jpg 190,282,443,482,2 468,252,640,446,2
+healthy_fish_koi_107_jpg.rf.af89def836c56485e16baddf90395005.jpg 41,6,231,465,2
+fungal_diseases_koki_021_jpg.rf.b0b3345a6a5a8226e31eecdd00563703.jpg 244,119,384,235,1 148,369,238,471,1
+healthy_fish_koki_083_jpg.rf.ac7cfe6e7e8c8f0b6df7a0c5128a95e6.jpg 101,179,464,534,2
+healthy_fish_koki_228_jpg.rf.b0547444a93d118eda020419a096ba8c.jpg 222,114,508,389,2
+white_tail_diseases_koki_042_jpg.rf.b10eaff62385c882122db307a08ad3a5.jpg 13,348,193,596,4
+healthy_fish_koi_125_jpg.rf.af4b7666de927492f39f61f91e3510a7.jpg 425,254,635,629,2 143,95,210,229,2 112,301,228,435,2 5,375,114,480,2 38,429,190,638,2
+healthy_fish_koki_032_jpg.rf.b19f3f5858c7971c0054722423e3f37e.jpg 226,167,486,468,2
+white_tail_diseases_koki_013_png.rf.b1a3469460a5564926f3351d0bf6201a.jpg 63,151,177,443,4
+healthy_fish_koi_277_jpg.rf.b1d76e58cce2e4afade0a38c1b7132e0.jpg 292,262,640,573,2 0,241,300,529,2 89,0,290,112,2
+fungal_diseases_koki_007_jpg.rf.b3bd633b72682b971431ac21b72e8319.jpg 337,140,453,217,1 320,279,445,428,1 572,254,631,348,1
+healthy_fish_koi_070_jpg.rf.b366acf1786a7c1e0fb3d59549cfd2e1.jpg 60,173,615,494,2
+bacterial_diseases_koi_040_jpg.rf.b43a227fbc31915bac8c523d3221c506.jpg 48,107,318,512,0
+parasitic_diseases_koi_025_jpg.rf.b3acd1dc84ce09a1c507acd707e5e8fc.jpg 370,390,462,521,3 467,460,533,548,3 370,227,437,326,3 285,298,327,349,3 203,289,254,364,3 162,220,224,309,3 30,170,70,230,3 63,182,147,285,3 140,57,218,146,3 126,137,186,212,3 174,105,267,234,3 141,0,200,66,3 272,121,331,226,3
+fungal_diseases_koi_012_jpg.rf.b340bd344987cebb452d280d57b5bcae.jpg 250,254,330,397,1
+healthy_fish_koki_128_jpg.rf.b3edccd97ec0998eb51133ccedd06e2e.jpg 86,151,490,625,2
+bacterial_diseases_koki_062_jpg.rf.b23c964bec80d7e58539cdfa221b435f.jpg 238,120,477,241,0
+healthy_fish_koi_111_jpg.rf.b3a524cbcb4217338bfd62d91461443f.jpg 222,157,399,544,2 24,229,168,634,2
+white_tail_diseases_koi_003_jpg.rf.b4dab81e9eeeb79676250e3fee9d1c20.jpg 4,209,88,346,4
+healthy_fish_koki_254_jpeg.rf.b4d10edda54b13f50a4d48cd881e99c1.jpg 4,257,518,606,2
+healthy_fish_koi_206_jpg.rf.b49fb3c7265ca17815c735fcabc797a1.jpg 215,84,440,239,2 0,256,300,435,2 270,140,624,432,2 387,281,640,528,2
+parasitic_diseases_koki_013_jpg.rf.8478e5f9a5947d3319bebd3d3ccadb34.jpg 266,158,470,435,3
+bacterial_diseases_koki_078_jpg.rf.b63252f56dc958b7702c3dd7554cf14e.jpg 188,116,401,232,0
+healthy_fish_koi_019_jpg.rf.b3eebbdb9ef6dfd2222b320f575640f9.jpg 85,49,585,498,2
+healthy_fish_koki_186_jpg.rf.b55eef99df66798b259183a862b3396a.jpg 209,101,542,589,2
+healthy_fish_koki_267_jpeg.rf.b77b3701ac2008c032fe6d1afe6f434f.jpg 294,83,640,463,2
+healthy_fish_koki_043_jpg.rf.b918fb0f631cff15c0d751f2aa486ca1.jpg 98,170,496,630,2
+white_tail_diseases_koi_015_jpg.rf.b759093f2d68d453a7b2ee3e6960e30a.jpg 468,404,575,516,4
+healthy_fish_koki_270_jpeg.rf.b93966930ed28a3fa63d06ffbcadebd6.jpg 149,259,484,444,2
+bacterial_diseases_koi_044_jpg.rf.b84399a660314ee037744220456581c1.jpg 23,73,319,601,0
+fungal_diseases_koi_002_jpg.rf.b8cadb36917705ebd0d693a349b589b5.jpg 370,219,441,302,1 510,300,545,414,1 382,342,441,439,1 394,431,451,514,1 269,399,323,457,1 334,364,374,450,1 195,428,236,478,1 160,265,221,300,1 167,348,216,399,1 237,387,293,422,1 228,342,271,376,1 281,287,324,341,1
+bacterial_diseases_koki_079_jpg.rf.b4fb2d215c94fbf464ce88e9f52eae53.jpg 198,358,403,460,0
+healthy_fish_koki_194_jpg.rf.b8dd92c225cd03a232d108f0c05e977a.jpg 131,156,426,497,2
+bacterial_diseases_koki_080_jpg.rf.b9f35cb5008cb749552ebbde5b7c069d.jpg 237,184,430,301,0
+healthy_fish_koi_240_jpg.rf.ba47cca4f9c0c7a2d88b4956e9f7936b.jpg 234,346,470,511,2
+healthy_fish_koi_102_jpg.rf.b685d38e611d475d66c7a6c21767c8d5.jpg 129,90,278,590,2 378,227,593,637,2 28,93,95,230,2
+parasitic_diseases_koi_017_jpg.rf.b9a9d98abdaefe422f9ad2d7f5ffd24b.jpg 208,308,415,532,3
+parasitic_diseases_koi_036_jpg.rf.b9ad376d86ccdf3cf6edfb76c8ff92aa.jpg 358,133,448,239,3 373,320,438,407,3 280,407,357,503,3 213,418,275,524,3 164,505,242,584,3 169,572,224,640,3 157,337,209,498,3 200,303,262,348,3 280,293,324,339,3
+healthy_fish_koi_103_jpg.rf.bb5c17ea1fd21fd3542a17cd7c5d83b4.jpg 113,73,288,552,2 48,83,103,217,2
+healthy_fish_koki_113_jpg.rf.bc4dc714ca33564e8398efc86a618ed0.jpg 0,0,640,640,2
+healthy_fish_koi_256_jpg.rf.be33b19cc311661c8f5d2ef3ae8f01ca.jpg 180,361,379,556,2 0,372,153,514,2 259,150,452,354,2 83,0,220,206,2 311,24,502,153,2
+fungal_diseases_koi_023_jpg.rf.be789fd5cd99d2b0c604e03d67ce5cc0.jpg 203,313,307,454,1
+healthy_fish_koi_181_jpg.rf.bc3156af3a2967e2e8efc975161a6372.jpg 305,92,451,286,2 488,0,573,242,2 0,0,409,500,2
+healthy_fish_koki_020_jpg.rf.c0270dc7dd6be24fd9cb96016ef55155.jpg 22,54,589,594,2
+fungal_diseases_koki_024_jpg.rf.c0613b1ddc3802d171a8ec59ad678065.jpg 222,118,422,232,1 453,358,590,463,1
+healthy_fish_koi_033_jpg.rf.bea491a7a044b3439c59cb17d3ed47c8.jpg 230,6,453,628,2
+healthy_fish_koki_074_jpg.rf.ba73008540b2014eea5ea28113a285e1.jpg 33,85,438,485,2
+fungal_diseases_koki_028_jpg.rf.83e9d9e0849b0a53aaf8664490f08a6e.jpg 217,88,374,233,1 138,384,236,508,1
+white_tail_diseases_koki_021_png.rf.c100a27793975d1926951810e503723b.jpg 494,149,640,480,4
+white_tail_diseases_koki_088_jpg.rf.c24360aab41799ec54fd5a83244d1858.jpg 422,267,619,557,4
+bacterial_diseases_koki_051_jpg.rf.bc20a5cc5ee2a9ba6e17e87565db9678.jpg 198,224,312,444,0
+healthy_fish_koi_153_jpg.rf.c0cdf4f950608fe00063ad2c49326244.jpg 262,417,640,640,2 470,0,640,200,2
+white_tail_diseases_koki_079_jpg.rf.bcb053d72b0fa9b791da7c45f4fd4e61.jpg 16,179,294,424,4
+healthy_fish_koi_230_jpg.rf.c28040473152fee4d9c9b2de22625d45.jpg 136,20,423,318,2
+white_tail_diseases_koki_062_jpg.rf.c4e5496de2511feca97219d13d0b6ab5.jpg 69,98,544,521,4
+healthy_fish_koi_082_jpg.rf.c2b98e75b2efeb7e725f474022853cdd.jpg 8,279,240,488,2
+bacterial_diseases_koi_073_jpg.rf.c4142402929598701b7128f1d9790895.jpg 113,254,264,445,0
+healthy_fish_koki_175_jpg.rf.c2671f15565f56ffb8d1aaf7dfccafc9.jpg 116,151,515,497,2
+white_tail_diseases_koi_029_jpg.rf.c50dbf619a18bc3635aaa6cb731f0b28.jpg 64,173,451,531,4
+fungal_diseases_koi_028_jpg.rf.c4a47308ed3e8db4a5f584172fd698bb.jpg 254,378,411,552,1
+healthy_fish_koi_154_jpg.rf.c51b0f5db1eb6bc1aff1c199de40b556.jpg 384,212,640,640,2
+white_tail_diseases_koki_055_jpg.rf.bc14dd9b8f4871712f3baa31f201d9b9.jpg 417,143,503,247,4
+healthy_fish_koki_010_jpg.rf.c6ccb00369030b1046c695ecdd552ffe.jpg 33,111,149,345,2 123,0,246,354,2 224,333,363,579,2 243,99,432,359,2 398,57,576,305,2 520,316,611,541,2 354,266,513,593,2
+parasitic_diseases_koi_003_jpg.rf.c5428169522f8c112b1aa93612a170d8.jpg 339,103,423,196,3 128,215,191,327,3 447,393,521,528,3 0,467,51,564,3
+healthy_fish_koki_091_jpg.rf.93555d3bc78b8399e0a6a8f089f602f9.jpg 43,106,455,579,2
+healthy_fish_koki_028_jpg.rf.c5367e2de7bb95d4850656e172c46299.jpg 102,17,566,640,2
+white_tail_diseases_koi_033_jpg.rf.c48072707c94addc591f28d666e7257c.jpg 23,248,214,466,4
+bacterial_diseases_koki_033_jpg.rf.c70750621f6d09d2597613222e1713d3.jpg 244,264,355,451,0
+healthy_fish_koi_140_jpg.rf.c397f05cbf246694080cdcaf0ccd31d9.jpg 316,134,558,632,2
+healthy_fish_koi_073_jpg.rf.c6e1875d75635233438885d18cc82be0.jpg 26,10,596,613,2
+healthy_fish_koki_154_jpg.rf.99647b3ad3affc7bd476e194c8b2adf1.jpg 289,238,595,401,2
+bacterial_diseases_koi_008_png.rf.a53bae086f10c62548b3d0d4336da44b.jpg 399,93,545,616,0
+healthy_fish_koi_137_jpg.rf.a0e52011f3af285a9ed72d691c457e67.jpg 77,393,160,552,2 273,510,386,640,2 63,123,155,383,2 167,5,305,260,2 232,3,436,215,2
+healthy_fish_koki_162_jpg.rf.ab1fe9a4f4b25603cc6e5aaf15dacaaa.jpg 0,0,640,640,2
+fungal_diseases_koki_023_jpg.rf.b328e20cedb4a64f11fe59a46906fc23.jpg 247,118,449,232,1 443,387,570,487,1
+white_tail_diseases_koki_066_jpg.rf.b4031d6e95b030185d50cef8f36e68e4.jpg 8,183,232,389,4
+white_tail_diseases_koi_009_jpg.rf.b249d7ec027ade6066fb3cca87b799f2.jpg 43,98,269,398,4
+white_tail_diseases_koi_019_jpg.rf.b1d2d227172200e4de2a4417d160d5af.jpg 468,404,580,517,4
+bacterial_diseases_koki_056_jpg.rf.b53baf7bafb5c68b78a343a505fb1553.jpg 223,397,463,522,0
+bacterial_diseases_koi_004_jpeg.rf.b516cf9ffcdeee79f30a949ae0932f22.jpg 191,328,435,624,0
+healthy_fish_koi_121_jpg.rf.c33b8b6973b5e848355cc68d14077497.jpg 24,122,252,402,2 1,310,120,554,2
+bacterial_diseases_koki_049_jpg.rf.bcbc8086a25536186bd3aff3fe9ce6d4.jpg 167,161,319,419,0
+healthy_fish_koi_042_jpg.rf.3609f0d07be0e5f1b21d5030cb65ef47.jpg 187,26,469,629,2
+healthy_fish_koi_109_jpg.rf.3618fdc1f2ba79ebfa2a41be1df30d37.jpg 248,255,473,640,2 6,306,131,633,2
+white_tail_diseases_koki_010_jpg.rf.377a4d6eef1b4710f314bbd079a74cae.jpg 505,162,640,421,4
+healthy_fish_koi_157_jpg.rf.3b3f2c525a604b71d9e7860285ff791c.jpg 87,28,309,587,2 0,0,134,578,2 151,360,405,640,2
+parasitic_diseases_koki_011_jpg.rf.3626e70294db737a1a39fc190ea2b405.jpg 269,167,466,432,3
+healthy_fish_koi_204_jpg.rf.367fb09614fb491041f4705761fbd413.jpg 79,89,348,248,2 0,284,242,466,2 303,163,640,378,2 390,262,640,503,2
+white_tail_diseases_koki_071_jpg.rf.3914948368f21a2fa61fea81691a390e.jpg 395,207,624,499,4
+bacterial_diseases_koi_016_jpg.rf.3767ebafb420086e3b5166c5b4f0563d.jpg 142,158,449,568,0
+healthy_fish_koi_147_jpg.rf.3823d2eefaad949f0a63712add38f30b.jpg 220,313,640,614,2 243,0,395,259,2 380,0,467,288,2 445,145,522,366,2 494,167,640,640,2
+white_tail_diseases_koki_060_jpg.rf.39fe642012ecd4e4c98ec0f668bc0a97.jpg 0,244,254,603,4
+healthy_fish_koki_024_jpg.rf.384731b5ca9f8485b90fcbbea1e62e77.jpg 40,0,587,640,2
+healthy_fish_koki_086_jpg.rf.3b03704af8e7909ec2263bfdfef0ef9c.jpg 315,132,515,375,2 214,246,393,498,2
+healthy_fish_koki_158_jpg.rf.3a64d295c7ddea48da9412c27334eeeb.jpg 0,0,640,640,2
+white_tail_diseases_koki_073_jpg.rf.38a840951595aacfac39a33523b73cd9.jpg 428,202,623,500,4
+healthy_fish_koi_068_jpg.rf.3aa1c3e29129785ac4a69a181ea46373.jpg 7,112,628,496,2
+healthy_fish_koki_265_jpeg.rf.36ab7ee63acd1df99da16f2499321e52.jpg 299,124,568,434,2
+bacterial_diseases_koi_015_jpg.rf.3a0fbd86563c2b60dbc3cd7eb6bd8275.jpg 193,187,390,467,0
+healthy_fish_koi_228_jpg.rf.37178e64a9665a6f426acc324e85c5e0.jpg 64,48,376,334,2
+healthy_fish_koi_255_jpg.rf.3a6d030ae4df55e4ca775e57bde985ce.jpg 339,305,623,446,2 414,0,507,233,2 75,0,247,119,2 363,495,544,640,2
+bacterial_diseases_koi_071_jpg.rf.399969ada28cc01bdda71ca63c2465a0.jpg 354,244,505,446,0
+healthy_fish_koki_059_jpg.rf.392dce7836aef7e1135ed4a6b43eafa1.jpg 136,0,586,578,2
+white_tail_diseases_koki_024_png.rf.3af8741af45288a39a9fa3920c8595c0.jpg 72,193,178,458,4
+bacterial_diseases_koi_033_jpeg.rf.39943629044bed90c94ff7c89c607a1d.jpg 243,255,352,631,0
+healthy_fish_koki_156_jpg.rf.396e8eb28405dfdc67babefae364a55e.jpg 62,237,349,392,2
+healthy_fish_koi_100_jpg.rf.3b618a2ed91defc03629d523bd0eabee.jpg 52,2,185,103,2 164,121,292,633,2 418,152,619,578,2 2,109,100,503,2
+healthy_fish_koi_148_jpg.rf.3b466508fbfdf3e51a037e3edb203e2d.jpg 239,328,640,579,2 507,126,608,423,2 274,0,440,251,2 451,0,538,252,2
+parasitic_diseases_koi_034_jpg.rf.3cbea74296638bb2d89d624863bb79b5.jpg 179,305,382,532,3
+bacterial_diseases_koki_083_jpg.rf.3c072318d676ede280f7527d36adbc18.jpg 265,54,434,229,0 192,404,322,556,0
+bacterial_diseases_koi_049_jpg.rf.3f50f6d77859c2423afec2d8d481a706.jpg 362,258,500,436,0
+healthy_fish_koki_041_jpg.rf.3b97e3d1635c4449194a43bd4fcc2006.jpg 150,136,520,575,2
+white_tail_diseases_koki_047_jpg.rf.3d70e41b134d0f1425cc33988981b93e.jpg 253,438,429,574,4
+bacterial_diseases_koki_050_jpg.rf.3debb136e60e8849e95ccd9dc6c55f28.jpg 322,199,427,410,0
+healthy_fish_koi_225_jpg.rf.3b5ef1eb2080873e6e593169e2ef5d56.jpg 259,62,362,409,2 0,130,198,366,2
+bacterial_diseases_koki_044_jpg.rf.3bb5d9baf54eb17dc1bdba11721e8589.jpg 163,170,318,423,0
+healthy_fish_koki_173_jpg.rf.405ea61dd542cb713d9dd0e546202d4d.jpg 120,54,472,632,2
+bacterial_diseases_koki_055_jpg.rf.3ecd9409126cf7c866b00018f22cb6ed.jpg 128,218,250,473,0
+healthy_fish_koki_030_jpg.rf.40eb178773e986c5dbc8dabbe361ee8b.jpg 60,0,541,640,2
+healthy_fish_koi_211_jpg.rf.3e83d46e4e3ee3ee482158bda81d1c4a.jpg 258,157,511,305,2 431,0,624,116,2 170,275,448,595,2
+white_tail_diseases_koi_008_jpg.rf.3cd160fcf96e05bc4dfb7849de7bd66d.jpg 457,160,604,435,4
+fungal_diseases_koi_036_jpg.rf.3d5ec072eb3d48062f886f48778ede45.jpg 175,253,301,348,1 234,353,337,425,1
+white_tail_diseases_koi_016_jpg.rf.3d1d25407eacdd9898750e69c2236e4b.jpg 45,177,165,276,4
+bacterial_diseases_koki_021_jpg.rf.3bc3eb13860f91744a2d9de405a3c1c3.jpg 244,512,332,564,0 223,373,337,478,0
+healthy_fish_koki_002_jpg.rf.3d7930eeef86c94cbb6424478118d81d.jpg 151,0,446,464,2
+healthy_fish_koi_023_jpg.rf.3d606224ee2478b98be27f2b1d4e0e0f.jpg 61,60,544,482,2 283,0,637,149,2 320,423,570,636,2
+bacterial_diseases_koki_039_jpg.rf.3e1f444c18082b759932ed369e05acdc.jpg 469,148,490,178,0
+white_tail_diseases_koi_038_jpg.rf.3f7f98248bbe8d51a225b9d906074cb7.jpg 37,188,233,379,4
+healthy_fish_koki_263_jpeg.rf.41ac343c7383b6eed18a8d9562891cb8.jpg 59,0,639,394,2
+bacterial_diseases_koki_068_jpg.rf.4177b10b487a6e720d9e314ec11ac8bc.jpg 137,145,290,383,0
+healthy_fish_koi_248_jpg.rf.425ec3c2f956ca85b36b1b3048d2ac07.jpg 340,57,443,290,2 27,0,251,458,2 387,394,451,629,2
+white_tail_diseases_koki_003_jpg.rf.41caaf61910d00dec7713df3aa5e43e9.jpg 387,99,564,360,4
+healthy_fish_koi_252_jpg.rf.4467151f7065c1079c29ea7748266108.jpg 0,146,242,420,2
+healthy_fish_koi_059_jpg.rf.46774fd36089cc90b5328ad88a96c7ad.jpg 66,230,444,635,2 259,5,475,405,2
+fungal_diseases_koki_043_jpg.rf.42fb6f12457be1b3a9d22503399b0949.jpg 277,329,387,381,1 277,298,417,321,1 269,272,402,295,1 264,230,396,266,1 396,349,518,412,1 530,349,608,424,1 416,286,525,342,1
+bacterial_diseases_koi_077_jpg.rf.478babb40eb11d0b21027ba7c9f966b9.jpg 333,203,495,403,0
+white_tail_diseases_koki_017_png.rf.49fb42afd3ccb0119f6c5658087f6a32.jpg 0,169,130,557,4
+parasitic_diseases_koi_008_jpg.rf.43b056abecb8949922e1cf6463b44d71.jpg 283,238,462,411,3 154,157,286,327,3
+fungal_diseases_koi_008_jpg.rf.43a549142c6022d24df5606f9fe8d96f.jpg 273,23,632,393,1 12,424,170,508,1 7,150,161,225,1
+healthy_fish_koi_117_jpg.rf.3f0f970b5742c3323d56556a35754a08.jpg 245,4,482,369,2 379,384,534,488,2 411,6,633,193,2
+bacterial_diseases_koi_046_jpg.rf.467e359de3d7f8ecdcaf7386fa3409ea.jpg 7,22,302,563,0
+healthy_fish_koki_023_jpg.rf.4a5fbeecd089cc60d211c9b2f69dd158.jpg 0,159,275,595,2 400,33,640,449,2
+healthy_fish_koki_260_jpeg.rf.436209d890481dfab0251a15f1acfa61.jpg 84,167,640,495,2
+parasitic_diseases_koi_026_jpg.rf.40f7293b7ebaaceb815a384a21933b5f.jpg 317,220,534,455,3
+healthy_fish_koi_034_jpg.rf.46f4654efa35a8ba6120c52080fd345c.jpg 75,12,550,634,2
+healthy_fish_koki_053_jpg.rf.47ae2e07e6e2dfc925b5060c5ce46be5.jpg 123,92,529,518,2
+healthy_fish_koi_244_jpg.rf.43e573238cc84cb6d9692f382295e386.jpg 76,0,406,640,2 45,0,185,173,2 0,166,59,410,2
+healthy_fish_koki_282_jpeg.rf.4aee6b0e9588071993391040c326963b.jpg 0,176,498,470,2
+fungal_diseases_koki_025_jpg.rf.4280014ddd80d613829908bd1aaad506.jpg 248,118,458,243,1 438,390,564,494,1
+healthy_fish_koi_239_jpg.rf.479679c0dc7146642b7e0382fe5c8e95.jpg 182,60,333,236,2 0,266,514,570,2
+healthy_fish_koi_126_jpg.rf.4bb0bf8e17e0854c24a05cfaf480e01e.jpg 365,213,577,593,2 95,141,188,274,2 127,315,251,437,2 44,408,198,637,2
+healthy_fish_koki_205_jpg.rf.4a821ea738f823a89b1dbb9b781bdfb8.jpg 228,266,607,569,2
+healthy_fish_koi_237_jpg.rf.4525b60e25f471d2054f426e6379719a.jpg 160,24,413,256,2
+healthy_fish_koi_226_jpg.rf.4b58ea80963d5713f00b1efc40d72548.jpg 0,108,231,321,2 239,155,352,514,2
+bacterial_diseases_koi_012_jpg.rf.4bccc48cf8f8ba44f36feb3f9a7c16c0.jpg 192,192,385,470,0
+fungal_diseases_koki_053_jpg.rf.4ea73645c86481dae2f178878f112c4e.jpg 413,270,444,314,1
+healthy_fish_koi_260_jpg.rf.4f44c629b033f29dcd181cf1600043b4.jpg 98,340,324,495,2 422,372,640,640,2
+healthy_fish_koki_013_jpg.rf.3eaa3c03f75096607d8538e0ecd0bfca.jpg 36,31,533,640,2
+fungal_diseases_koki_006_jpg.rf.4f2965af0fd87e20f6e406744e4008c6.jpg 360,323,414,449,1 272,384,318,446,1 312,333,359,416,1
+healthy_fish_koi_160_jpg.rf.4ca4663bc0331c688c846d9608bed801.jpg 268,125,320,302,2 296,310,584,540,2 242,0,353,107,2
+healthy_fish_koi_185_jpg.rf.4e1cde3a11ec9190b50f1757ac2fba69.jpg 133,114,384,633,2 395,0,500,265,2
+healthy_fish_koki_209_jpg.rf.4f6ab34ff2920da4f938e5f6bf83e184.jpg 124,237,463,490,2
+healthy_fish_koki_214_jpg.rf.4f04dfbeb71ef232b7ebd9d1150f56fd.jpg 202,302,350,388,2
+healthy_fish_koki_169_jpg.rf.500a026863333a39decf244d2b4a0604.jpg 107,132,529,515,2
+healthy_fish_koi_112_jpg.rf.4bba423d7e607a9d9a24aaffd9c9762c.jpg 245,273,364,353,2 483,167,628,272,2 138,5,460,234,2 9,112,276,276,2
+healthy_fish_koi_151_jpg.rf.51651d058720951109100dbe1770b176.jpg 253,391,640,640,2 427,0,640,198,2
+healthy_fish_koki_092_jpg.rf.5053c017aa10d824b64dd6c082b7caa5.jpg 12,0,640,640,2
+healthy_fish_koki_042_jpg.rf.509d41021ec76c63b21335166bab2224.jpg 0,0,554,640,2
+healthy_fish_koi_018_jpg.rf.4fd4750c4234f6c7588fd8ef982d7445.jpg 83,43,586,498,2
+healthy_fish_koi_149_jpg.rf.51b92d16c0badafea1456fb397b204f5.jpg 242,330,640,606,2 565,105,640,430,2 501,0,596,213,2 328,0,494,215,2
+bacterial_diseases_koi_034_jpg.rf.5052fdd711b8aac1c9811850f790f1e0.jpg 9,105,290,553,0
+healthy_fish_koki_144_jpg.rf.4cb4025c77dfdf313fbc720aaf197942.jpg 61,245,361,409,2
+healthy_fish_koki_119_jpg.rf.4e1151240981345ec9aafe92f15c8917.jpg 66,236,593,533,2
+healthy_fish_koi_165_jpg.rf.522eefc81acbfdf21db12fddd9a09b75.jpg 27,8,330,334,2 299,220,440,484,2 337,0,482,130,2 222,469,302,640,2 111,384,187,630,2
+healthy_fish_koi_187_jpg.rf.51f9df9267aa264ab134f90ca6bfb3f3.jpg 34,315,190,497,2 115,31,607,640,2
+parasitic_diseases_koi_013_jpg.rf.52f2691a8dc91f0f4c9934d39c9bc422.jpg 205,307,412,529,3
+healthy_fish_koki_195_jpg.rf.51b33f20bd81edec25ff4919807683ba.jpg 0,19,600,444,2
+bacterial_diseases_koki_023_jpg.rf.534ae2a4f1844b09d012cd3c36673f83.jpg 373,310,493,419,0 518,329,561,414,0
+fungal_diseases_koki_018_jpg.rf.536673f0c3db69cdb6eec3288108ef70.jpg 255,110,392,236,1 415,356,501,466,1
+white_tail_diseases_koki_051_jpg.rf.55972c788d0859bb9f07a2f8647b684a.jpg 427,205,624,503,4
+healthy_fish_koki_050_jpg.rf.553420b5a9133880b0f8d33fe5a674a9.jpg 143,33,530,337,2 227,189,481,470,2
+bacterial_diseases_koki_034_jpg.rf.548ba04197dde608eebfa46f76b1671a.jpg 272,228,456,349,0
+healthy_fish_koi_060_jpg.rf.5600eb201e372a14d7c0fda047f98262.jpg 135,34,488,611,2
+bacterial_diseases_koki_020_jpg.rf.5523c4db943108e5b289e1b86e23fba0.jpg 33,39,395,626,0
+healthy_fish_koi_205_jpg.rf.55d393db6a9f6bcb6586a7f7d5363260.jpg 156,100,394,245,2 0,278,277,447,2 301,153,640,412,2 394,277,640,514,2
+fungal_diseases_koki_003_jpg.rf.561af6afb63bd7e9fda90b426ae38cc2.jpg 383,219,415,268,1
+healthy_fish_koki_126_jpg.rf.51f601e8dac918c73b439acfde14a01c.jpg 21,94,640,634,2
+healthy_fish_koki_117_jpg.rf.53fce8d499b0186dd2d0755012e4526d.jpg 51,0,610,613,2
+healthy_fish_koi_217_jpg.rf.546d7b6d4744318d2f0cba174859e8a2.jpg 170,167,475,454,2 294,141,350,271,2
+healthy_fish_koi_266_jpg.rf.5598a2f0b467a19a969c022c4fcacf96.jpg 0,0,246,306,2
+healthy_fish_koi_212_jpg.rf.56a72267fedf1733c350dde5cc5e8bac.jpg 125,313,421,624,2 454,0,612,109,2 284,132,548,320,2
+white_tail_diseases_koki_025_jpg.rf.54c3a6873ac7c3785764e3a16b3ade0e.jpg 457,203,570,445,4
+healthy_fish_koi_201_jpg.rf.563e756c56092e746d452812ac86cd08.jpg 317,32,640,309,2 367,197,640,466,2
+healthy_fish_koki_242_jpeg.rf.57fd41969b459de9525bd98a4bde6598.jpg 71,48,548,470,2
+bacterial_diseases_koki_085_jpg.rf.57e6dd13b8c4ee619a9cbcf5b271396a.jpg 140,118,286,268,0 300,368,480,533,0
+healthy_fish_koi_150_jpg.rf.57325a70a3cffff72e331f7bcb52e79d.jpg 401,0,612,212,2 246,367,640,640,2
+healthy_fish_koki_133_jpg.rf.591e47d0edef0431e7bcd41b4b04077c.jpg 18,11,625,629,2
+healthy_fish_koi_251_jpg.rf.58bff6d9956cf918d6cd700c1abc7bec.jpg 0,112,267,640,2 387,193,494,491,2
+healthy_fish_koi_138_jpg.rf.5972c07735c42e05fafd10e27ad8eebd.jpg 347,117,579,583,2
+healthy_fish_koki_150_jpg.rf.5931feab5d9c44785a18efbde5f50bbc.jpg 32,0,590,616,2
+bacterial_diseases_koki_097_jpg.rf.5a35c34c1f5f2af35d4c56b95549bda4.jpg 363,140,428,189,0 425,201,495,293,0 403,348,454,402,0
+bacterial_diseases_koi_018_jpg.rf.5ad3cf1cef391259e72bca87f90628e8.jpg 128,217,285,399,0
+healthy_fish_koki_211_jpg.rf.594655d7f32c7d2847862ff2eba1c68a.jpg 275,266,527,422,2
+healthy_fish_koki_058_jpg.rf.547ecc0e61101ab28edeb9370be7154a.jpg 70,99,432,466,2 342,298,558,640,2
+white_tail_diseases_koki_032_jpg.rf.5a257f6e5108f524e8aca6fb2ece443a.jpg 52,327,200,557,4
+bacterial_diseases_koi_048_jpg.rf.5a34c12ff209dd88272adc33294aaa7c.jpg 387,227,531,404,0
+white_tail_diseases_koi_034_jpg.rf.5aea380eb5f97b84d0af31efa9141d6b.jpg 29,175,233,375,4
+healthy_fish_koi_009_jpg.rf.5b9ad7dd27b05b947337fdfc9f868b74.jpg 12,134,603,515,2
+bacterial_diseases_koi_064_jpg.rf.5a3ec3c35d12254e31142b0ddbc3d107.jpg 159,259,290,403,0
+healthy_fish_koi_081_jpg.rf.5eb4a3440d433c6acee00a224aa280c5.jpg 29,245,272,444,2
+bacterial_diseases_koi_036_jpg.rf.5c9e8c494c9c3bac1acc02623b608a7b.jpg 5,103,319,622,0
+healthy_fish_koki_191_jpg.rf.51d6786768918bb3273122d557a1aa01.jpg 223,170,492,477,2
+healthy_fish_koki_103_jpg.rf.5a5408137d3b34554400c48d46b62f11.jpg 54,0,397,229,2 120,425,606,607,2
+white_tail_diseases_koki_091_jpg.rf.60885d96deb6babf208599a74b87ecaf.jpg 203,342,415,640,4
+healthy_fish_koki_229_jpg.rf.60197cd97e321d308e9fa589da4a6d4a.jpg 218,192,486,512,2
+white_tail_diseases_koki_031_jpg.rf.5d547c91f38019addfe6af545ecafc1e.jpg 50,323,202,553,4
+fungal_diseases_koki_026_jpg.rf.5fda6675f0953aebaa64efcb56d177d4.jpg 258,88,408,229,1 412,375,513,490,1
+healthy_fish_koi_180_jpg.rf.606726f0a4aa9754f6dff665db72b443.jpg 0,0,347,528,2 310,68,457,270,2 473,0,547,212,2
+white_tail_diseases_koi_013_jpg.rf.5f47d172772a9c2ed628e568266100af.jpg 385,259,616,532,4
+healthy_fish_koi_129_jpg.rf.6075e7ee7c2e64f2dbe5c69201b2ab64.jpg 309,140,451,462,2 11,193,125,382,2 69,350,209,635,2 191,337,257,553,2
+healthy_fish_koki_197_jpg.rf.5fffec2417efd5d3107f9d5cd9c75e15.jpg 0,144,617,570,2
+healthy_fish_koi_127_jpg.rf.61111aceb46d0418cc660ee2ba6f28da.jpg 343,187,543,539,2 77,166,184,305,2 148,324,264,427,2 59,390,212,635,2
+healthy_fish_koki_075_jpg.rf.60b41551f1c2ed8cafd010d6df274e47.jpg 49,343,190,481,2 0,410,155,597,2 246,270,362,443,2 236,399,401,565,2 472,298,616,486,2 439,432,549,582,2
+healthy_fish_koi_196_jpg.rf.62108d348da6f7986e9d466db7bcf65f.jpg 82,363,459,640,2
+white_tail_diseases_koi_036_jpg.rf.61e98305944e217fa955b95b6a6c5408.jpg 242,13,463,207,4
+healthy_fish_koki_177_jpg.rf.60075803c39d82c9c0b032d111540bfc.jpg 91,67,543,572,2
+fungal_diseases_koki_012_jpg.rf.5f1ff8c15bcee2bf89c62300fccc3e2d.jpg 292,204,350,288,1
+white_tail_diseases_koki_046_jpg.rf.6432897e22a98bed80110af68118ec21.jpg 277,453,413,571,4
+healthy_fish_koi_254_jpg.rf.649da5d058fc23dcff7c307c1845d0f7.jpg 94,38,334,446,2 224,174,468,640,2
+bacterial_diseases_koki_057_jpg.rf.645cc290a3a79e2f5fe44c17cf95621f.jpg 265,164,496,295,0
+healthy_fish_koi_200_jpg.rf.641b947a115b8a2ca3e060728256cd40.jpg 321,38,640,332,2 378,185,640,451,2
+healthy_fish_koki_161_jpg.rf.652e71cb93287970f981d494ff515aaf.jpg 0,72,600,626,2
+healthy_fish_koi_220_jpg.rf.65df8663a4105ff16ef3ed2f2a24f8ef.jpg 402,124,525,228,2 203,44,401,432,2 330,83,386,235,2
+bacterial_diseases_koi_023_jpg.rf.658d653f217e11fb32987fd59ade07d0.jpg 88,124,312,501,0
+parasitic_diseases_koi_021_jpg.rf.653e2c32938df9c2d240b81e12d7fb5d.jpg 175,303,414,531,3
+healthy_fish_koki_061_jpg.rf.67372a5d22ef14051e6fdc6d477ff7a2.jpg 15,0,640,640,2
+healthy_fish_koki_130_jpg.rf.64b00409dc7c63ddf71f329d6323e91d.jpg 36,13,530,625,2
+healthy_fish_koki_139_jpg.rf.66700aac8d49d65947540a8422ba70a7.jpg 173,244,521,445,2
+healthy_fish_koki_099_jpg.rf.653d68762449d19ec1b05606d2575929.jpg 176,126,418,260,2
+healthy_fish_koki_008_jpg.rf.66b95fef14d021ef942abf28d38d2f53.jpg 45,0,572,640,2
+bacterial_diseases_koki_009_jpg.rf.670a41847f7619b653fcc24a1768386a.jpg 258,103,334,239,0
+fungal_diseases_koi_005_jpg.rf.67543db7565b891471e52d93de1357a5.jpg 342,126,448,258,1
+healthy_fish_koi_280_jpg.rf.646980a00d129fcdd7be7a709131a365.jpg 40,202,377,455,2 432,0,544,311,2 0,0,99,95,2
+healthy_fish_koki_198_jpg.rf.681f0417bd1c3636c6404b59283bb9fb.jpg 117,149,560,554,2
+bacterial_diseases_koi_078_jpg.rf.695c0fe2dd16f91179c552daaea86897.jpg 120,252,276,435,0
+healthy_fish_koi_013_jpg.rf.6533dd1810dc4a43e8e888e3d05bb177.jpg 28,45,543,603,2
+healthy_fish_koki_015_jpg.rf.65d2eea8caa76512faeae39a484c2d25.jpg 50,101,370,640,2 175,189,521,640,2 374,419,528,640,2
+healthy_fish_koki_026_jpg.rf.65d4ab2044af46926fc36e978a874975.jpg 460,192,570,388,2 508,38,640,170,2 205,142,342,298,2 69,470,203,595,2 312,414,443,572,2 0,35,77,219,2 103,101,243,223,2
+healthy_fish_koi_202_jpg.rf.68961dbc26a4adeac3a642155e13072e.jpg 312,75,640,337,2 381,244,640,503,2 0,120,240,282,2 0,330,159,515,2
+healthy_fish_koi_123_jpg.rf.69e8718969aeb85dec55e6e986befbaf.jpg 90,5,507,635,2
+healthy_fish_koi_193_jpg.rf.6986cee614570775538299505fc3d98f.jpg 501,0,640,355,2 269,278,373,640,2 159,39,440,546,2 181,278,264,439,2
+healthy_fish_koi_083_jpg.rf.6a8aec5cdb9c8d8f64f9c66b0ebedb29.jpg 6,283,210,534,2
+healthy_fish_koki_039_jpg.rf.6bd5b0ccd598a8a40ac60a2302dba696.jpg 0,67,612,602,2
+healthy_fish_koi_253_jpg.rf.6d071f931b7bc3213ea79bf2565d16dd.jpg 16,74,302,411,2 197,238,423,640,2
+healthy_fish_koki_164_jpg.rf.6a1f6836db776f7f032553b33d103168.jpg 112,155,561,557,2
+parasitic_diseases_koi_028_jpg.rf.6be73f46579f786bed879d60bd8a9a57.jpg 307,195,536,412,3
+healthy_fish_koi_061_jpg.rf.6c9861aa12753d65d110deb129a90d7e.jpg 198,7,442,600,2
+healthy_fish_koki_089_jpg.rf.6ab48e6e9b842b046d227ffdd42ef34c.jpg 30,83,613,640,2
+healthy_fish_koi_156_jpg.rf.6ddebab3674cf06c4a03946784b202e3.jpg 165,0,300,334,2 243,20,450,524,2 299,392,535,640,2
+healthy_fish_koki_049_jpg.rf.6c3b93233a39defe8dcd7665983b0c39.jpg 371,114,583,268,2 72,242,287,443,2 74,113,279,284,2
+healthy_fish_koi_051_jpg.rf.6eaf892a78cb2e70f17cddec729bbbd1.jpg 80,19,574,631,2
+white_tail_diseases_koi_014_jpg.rf.6f60acd3577d4fad33b7e60f01664c99.jpg 455,128,578,227,4
+healthy_fish_koki_215_jpg.rf.700c0c738c41e41816fc02d33c9c5e2d.jpg 223,287,395,378,2
+healthy_fish_koi_104_jpg.rf.6518c7c91c316a8eda300293e975b5e1.jpg 33,56,92,190,2 103,53,272,514,2
+fungal_diseases_koi_009_jpg.rf.70a51bcfc940bc6ab644c5c22f04afb3.jpg 149,203,229,323,1
+fungal_diseases_koi_016_jpg.rf.6dcf4f934e96a375776470e6881c0609.jpg 234,265,361,345,1
+bacterial_diseases_koki_036_jpg.rf.6d82543048bc5746410e5c9f29286103.jpg 152,138,289,406,0
+healthy_fish_koki_005_jpg.rf.6f7f31cdf32123e3301284ac33dd7cb6.jpg 42,0,576,640,2
+healthy_fish_koi_242_jpg.rf.6d23e1470580e5b05448f1dc080d5968.jpg 59,357,321,536,2
+fungal_diseases_koki_030_jpg.rf.70fac0b5e63bb0f6be5709227cd56849.jpg 255,113,392,233,1 409,358,495,472,1
+healthy_fish_koki_152_jpg.rf.70b81e70b9c82ede33424f1edea50f83.jpg 290,247,581,395,2
+healthy_fish_koi_250_jpg.rf.7108118441450a39eb44a807331bf36f.jpg 17,57,264,568,2 365,111,468,370,2
+bacterial_diseases_koi_038_jpg.rf.6e01b02d0ac4b3879352d911a5e71803.jpg 8,4,552,294,0
+white_tail_diseases_koki_096_jpg.rf.704c2fa1a2992a37302b84666da4992c.jpg 10,208,288,421,4
+white_tail_diseases_koki_081_jpg.rf.38d3d518e9a6f21a87e9b61d03233af6.jpg 357,203,628,423,4
+fungal_diseases_koki_055_jpg.rf.71b905e7cfe72899b304e1b8e1a7488c.jpg 235,114,253,139,1 238,79,260,111,1 247,53,267,78,1 254,33,290,60,1 204,139,238,192,1
+healthy_fish_koki_171_jpg.rf.711b8cf3ad4d2ccc6cb1b3fbec6fc4e4.jpg 0,11,629,622,2
+healthy_fish_koki_037_jpg.rf.70fb95893d674a69ae4aaa2c11c3f646.jpg 109,0,185,153,2 165,61,271,282,2 88,223,239,421,2 236,234,387,458,2 367,63,468,324,2 387,276,545,532,2
+bacterial_diseases_koki_060_jpg.rf.725a96c4020c87af95379bf04108979e.jpg 153,169,284,372,0
+bacterial_diseases_koi_072_jpg.rf.719a47194a57b9aa8bf8d5bc98189e87.jpg 195,148,386,312,0
+parasitic_diseases_koki_007_jpg.rf.73ae2edc3230f772fcd28e842d5b2733.jpg 271,165,477,433,3
+bacterial_diseases_koki_089_jpg.rf.75261075be3bc233c914d61bc72067b3.jpg 337,275,505,364,0
+parasitic_diseases_koi_016_jpg.rf.7279e31f7a47a5da63e55b5c1370d87c.jpg 241,304,471,533,3
+healthy_fish_koki_003_jpg.rf.7446335914853ccbae653ec98e7a6704.jpg 114,0,532,640,2
+healthy_fish_koi_232_jpg.rf.75bc814deb0e13597ee0dbdb0f8f58a9.jpg 222,12,500,348,2
+healthy_fish_koi_005_jpg.rf.76209b3c3001d7f8cc278c5afa60339f.jpg 60,204,383,600,2
+healthy_fish_koi_223_jpg.rf.7654ecb622a7a31c35dc4bbafd2a4839.jpg 105,17,351,532,2 401,90,493,201,2
+healthy_fish_koi_069_jpg.rf.75a390023816113ebf89d6fc738ed34f.jpg 9,23,266,419,2 252,280,619,618,2 105,189,334,610,2
+white_tail_diseases_koi_040_jpg.rf.73420a356712b58fb496e195d44466fc.jpg 35,168,248,379,4
+healthy_fish_koi_001_jpg.rf.745455bc739e1d8445bc158e0464f831.jpg 13,23,623,612,2
+fungal_diseases_koki_050_jpg.rf.76c58fdfbf61a621331ce72824a393c9.jpg 8,293,66,373,1
+healthy_fish_koi_169_jpg.rf.7543a19b7b59f0203622224fb43aff18.jpg 0,229,423,514,2 81,177,305,318,2 249,0,456,217,2
+healthy_fish_koi_214_jpg.rf.76d1849e139f3096c7c75a1e60c08e64.jpg 173,220,455,469,2 568,468,640,640,2 198,207,244,295,2 240,147,360,258,2 427,137,489,257,2
+bacterial_diseases_koki_069_jpg.rf.768bd842b52872d7b8e45b9412beac35.jpg 159,159,406,285,0
+healthy_fish_koki_184_jpg.rf.79eaadedb9c1006d977c1db591827b30.jpg 0,49,527,640,2
+healthy_fish_koki_160_jpg.rf.775f9d20dc57b6e576e7f0fd3e420445.jpg 279,256,606,424,2
+healthy_fish_koki_157_jpg.rf.7a809a0156aa97d67b3a438b9917a8d1.jpg 0,0,640,640,2
+healthy_fish_koki_264_jpeg.rf.7a971e2923b23fd23c34ec484cf5ffa5.jpg 171,130,511,450,2
+healthy_fish_koi_096_jpg.rf.7814c4c145800481a83c1e9fcc699420.jpg 36,156,214,517,2 246,199,368,635,2 459,156,637,444,2 252,40,323,168,2
+bacterial_diseases_koki_025_jpg.rf.7aa3952bcec2e48e7bcad462ba185439.jpg 254,163,358,259,0 277,78,364,118,0
+healthy_fish_koki_107_jpg.rf.7ab310bc8274e49e79efda4dccdc95ad.jpg 73,10,543,629,2
+healthy_fish_koi_261_jpg.rf.7ca9fc6d93e4c71ef6340f626fe65fd1.jpg 79,279,342,487,2 417,392,640,640,2
+fungal_diseases_koi_021_jpg.rf.7872222b4b7c8c8b976b3f8efeb8d084.jpg 289,178,417,314,1
+bacterial_diseases_koki_024_jpg.rf.76fc802a44c287513cf232bd1f91bf22.jpg 94,238,127,322,0 168,238,265,339,0
+healthy_fish_koi_179_jpg.rf.77a844460cfda865eb697d58d962a077.jpg 0,0,284,484,2 306,99,469,275,2 452,0,519,206,2
+healthy_fish_koi_007_jpg.rf.7d0d04ea5d620c1eea55ebe5b3b569f4.jpg 212,170,637,526,2
+healthy_fish_koki_098_jpg.rf.7e21f44998a732e934174d1365ebd0a9.jpg 55,11,619,601,2
+bacterial_diseases_koki_072_jpg.rf.7ca96baa04fa77d8197a46191ccc0b3f.jpg 169,384,413,508,0
+fungal_diseases_koi_013_jpg.rf.7e9d9081007dcda3d95b94d109b63ff3.jpg 52,158,123,235,1 194,390,239,428,1 263,503,315,547,1
+healthy_fish_koki_193_jpg.rf.7e0196ec0d7bb7e89f8737327925b1c6.jpg 125,95,640,640,2
+healthy_fish_koki_034_jpg.rf.47f28426734cb99deb128a2c6d0b7a73.jpg 127,164,452,516,2 72,0,235,126,2 322,52,461,173,2
+healthy_fish_koki_102_jpg.rf.7cc772d666e524ec13dbbcf64866d796.jpg 32,170,640,640,2
+healthy_fish_koi_203_jpg.rf.4183d800f2068315078aefd42523edcc.jpg 0,99,295,261,2 312,161,640,350,2 384,257,640,508,2 0,307,205,497,2
+white_tail_diseases_koki_086_jpg.rf.7ee4f66db46ec54c34029c262b69cee2.jpg 397,269,626,570,4
+healthy_fish_koi_245_jpg.rf.7e320c24e99319a5d88239c80fb048e4.jpg 312,0,397,145,2 45,0,205,248,2 0,289,99,536,2 68,120,321,640,2 342,197,402,378,2
+fungal_diseases_koi_019_jpg.rf.7c50497bb1c8ac01403e0e968d0c3c7f.jpg 308,179,425,323,1
+healthy_fish_koi_099_jpg.rf.7dee30efdd2a63f91318b3f242e9fd83.jpg 158,122,298,636,2 412,132,635,535,2 3,85,106,521,2 85,2,214,101,2
+bacterial_diseases_koki_035_jpg.rf.7ee838dd19cceb98fd8402c789979d0f.jpg 147,242,285,498,0
+bacterial_diseases_koki_065_jpg.rf.7efb99f4b065ccceebe4a4889b2e794f.jpg 148,153,281,391,0
+fungal_diseases_koi_026_jpg.rf.7eaf57e5289875bbfd09fdb499215f51.jpg 224,138,408,285,1
+healthy_fish_koki_255_jpeg.rf.7f3056d2fee1cdc6759287d6e686f1a3.jpg 65,149,640,467,2
+bacterial_diseases_koi_047_jpg.rf.7f0329c01ac1e089bda65ad5a6ceb8f6.jpg 104,353,633,632,0
+bacterial_diseases_koi_069_jpg.rf.7f09e85011726c9fce17e561b647b64d.jpg 128,253,286,428,0
+white_tail_diseases_koki_057_jpg.rf.54d2be995e880970cd2eeb2165c7d3fd.jpg 244,0,587,296,4
+bacterial_diseases_koki_022_jpg.rf.59f87e13d4cf456ac6b5cfa1a222b5b4.jpg 153,254,259,373,0 88,273,128,364,0
+healthy_fish_koi_164_jpg.rf.5c14865650478ba2956fa6550dc2efb6.jpg 311,216,452,536,2 77,0,324,302,2 135,325,207,579,2 237,437,316,640,2
+fungal_diseases_koki_001_jpg.rf.692eae4f1874dd3b062e89b440e3022d.jpg 265,258,329,323,1 255,388,358,418,1 253,361,345,382,1 262,330,336,358,1 174,226,258,296,1 112,216,169,296,1 164,304,231,353,1
+healthy_fish_koi_184_jpg.rf.6ea68abdec1988c63b34c2f07b9b7efc.jpg 224,6,360,429,2 338,51,467,412,2
+bacterial_diseases_koi_082_jpg.rf.6f3465b697e6cfb7dde48721dc9c12fc.jpg 263,173,420,314,0
+healthy_fish_koi_139_jpg.rf.76d61d17700eb4fcb950be7d33190491.jpg 323,131,554,627,2 256,529,452,633,2
+healthy_fish_koki_070_jpg.rf.7c1b3e537065f191abfbb1d48cbc5ed3.jpg 218,84,360,463,2 302,0,426,310,2
+healthy_fish_koki_262_jpeg.rf.79c7bf80098740482f83f28244408f9e.jpg 0,140,596,474,2
